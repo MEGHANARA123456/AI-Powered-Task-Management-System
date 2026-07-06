@@ -1,0 +1,22 @@
+{
+  "results": {
+    "Random Forest (tuned)": {
+      "accuracy": 0.7542,
+      "precision": 0.7563,
+      "recall": 0.7542,
+      "f1": 0.7529
+    },
+    "Gradient Boosting": {
+      "accuracy": 0.7542,
+      "precision": 0.7563,
+      "recall": 0.7542,
+      "f1": 0.7529
+    }
+  },
+  "best_model": "Random Forest (tuned)",
+  "best_rf_params": {
+    "max_depth": 8,
+    "min_samples_leaf": 1,
+    "n_estimators": 200
+  }
+}

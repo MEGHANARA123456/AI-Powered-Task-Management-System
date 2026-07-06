@@ -1,0 +1,1516 @@
+task_id,description,category,deadline_days,workload_hours,current_assignee,priority
+T00001,Create new nightly widget for the search homepage. Related to the auth incident from last week.,documentation,0,1.1,chen,Medium
+T00002,"Add integration tests covering urgent flow in billing. Blocked by another team, follow up needed.",deployment,3,1.7,bharath,Medium
+T00003,Build export to quarterly functionality for profile reports. Please review before the next sprint.,feature,9,6.5,alice,Medium
+T00004,Write unit tests for automated function in search module. Related to the profile incident from last week.,testing,1,19.3,chen,High
+T00005,Login fails intermittently with recurring error on inventory browser,bug,3,11.8,hassan,High
+T00006,Create new recurring widget for the search homepage. Related to the mobile app incident from last week.,bug,1,3.6,alice,Medium
+T00007,"Set up regression test suite for admin after nightly change. Customer escalation, please prioritize.",testing,6,18.7,gita,Medium
+T00008,Configure CI/CD pipeline for checkout service on nightly. Please review before the next sprint.,deployment,1,22.2,chen,Medium
+T00009,Build export to large functionality for search reports. Related to the reporting incident from last week.,feature,7,60.0,bharath,Low
+T00010,Fix crash when user uploads minor file on profile page,bug,0,18.4,esha,High
+T00011,Login fails intermittently with recurring error on API gateway browser,bug,1,9.2,divya,High
+T00012,Implement dark mode support for mobile app screen,feature,0,7.3,alice,Medium
+T00013,Application freezes after clicking user-reported button on search. Please review before the next sprint.,bug,1,5.7,hassan,High
+T00014,"Add automated filter option to the profile dashboard. Blocked by another team, follow up needed.",feature,3,3.8,alice,Medium
+T00015,"Create new large widget for the billing homepage. Customer escalation, please prioritize.",feature,3,34.2,gita,Medium
+T00016,Data not saving correctly after minor update in checkout form,bug,2,14.5,chen,High
+T00017,Login fails intermittently with minor error on auth browser. Related to the auth incident from last week.,bug,8,5.4,hassan,Medium
+T00018,Configure CI/CD pipeline for mobile app service on user-reported. Related to the reporting incident from last week.,deployment,3,4.0,hassan,Medium
+T00019,Implement dark mode support for search screen,feature,10,6.0,hassan,Low
+T00020,"Configure CI/CD pipeline for profile service on nightly. Customer escalation, please prioritize.",deployment,0,11.9,farhan,High
+T00021,Roll out recurring update to checkout production environment,deployment,2,10.0,hassan,Medium
+T00022,Write unit tests for large function in auth module,testing,1,18.5,bharath,Medium
+T00023,"Update API docs for the auth endpoint covering urgent usage. Blocked by another team, follow up needed.",deployment,7,1.6,divya,Low
+T00024,"Create new critical widget for the billing homepage. Blocked by another team, follow up needed.",feature,1,9.2,bharath,Medium
+T00025,Write onboarding guide for new reporting users about scheduled. Related to the API gateway incident from last week.,documentation,10,18.4,hassan,Low
+T00026,Null pointer exception occurring in checkout module during critical operation. Please review before the next sprint.,bug,12,,alice,High
+T00027,"Add notification system for critical events in reporting. Blocked by another team, follow up needed.",feature,0,6.7,gita,Medium
+T00028,"Add integration tests covering scheduled flow in billing. Blocked by another team, follow up needed.",testing,8,4.6,esha,Low
+T00029,Migrate profile database to scheduled during maintenance window,deployment,3,24.7,divya,High
+T00030,Application freezes after clicking automated button on reporting. Related to the search incident from last week.,bug,1,9.0,alice,High
+T00031,Null pointer exception occurring in mobile app module during scheduled operation,bug,1,37.1,divya,High
+T00032,Fix crash when user uploads urgent file on billing page,bug,9,8.3,hassan,Medium
+T00033,Create new quarterly widget for the API gateway homepage. Related to the inventory incident from last week.,feature,5,9.0,bharath,Low
+T00034,Create new minor widget for the admin homepage. Related to the billing incident from last week.,feature,10,22.1,chen,Medium
+T00035,Build export to urgent functionality for auth reports. Please review before the next sprint.,testing,5,5.7,farhan,Low
+T00036,Update API docs for the admin endpoint covering automated usage,documentation,9,5.9,esha,Low
+T00037,"Fix crash when user uploads urgent file on mobile app page. Blocked by another team, follow up needed.",bug,2,32.6,divya,High
+T00038,Perform load testing on reporting service under large traffic,testing,6,5.9,divya,Low
+T00039,"Build export to critical functionality for billing reports. Blocked by another team, follow up needed.",feature,9,13.4,divya,Low
+T00040,"Create changelog entry for urgent release of auth. Blocked by another team, follow up needed.",testing,4,7.6,bharath,Low
+T00041,"Application freezes after clicking quarterly button on checkout. Blocked by another team, follow up needed.",bug,7,4.9,esha,Medium
+T00042,Build export to automated functionality for checkout reports,feature,3,13.9,farhan,Medium
+T00043,Configure CI/CD pipeline for profile service on minor,deployment,6,1.0,bharath,Low
+T00044,"Application freezes after clicking recurring button on API gateway. Blocked by another team, follow up needed.",bug,0,23.4,farhan,High
+T00045,Add nightly filter option to the billing dashboard,feature,2,1.3,esha,Medium
+T00046,Application freezes after clicking critical button on profile. Please review before the next sprint.,bug,0,5.5,farhan,High
+T00047,Configure CI/CD pipeline for admin service on automated,deployment,3,2.4,bharath,Medium
+T00048,"Login fails intermittently with urgent error on mobile app browser. Blocked by another team, follow up needed.",bug,0,5.8,hassan,Medium
+T00049,"Provision new scheduled servers for checkout scaling. Customer escalation, please prioritize.",deployment,4,16.5,esha,Medium
+T00050,"Add recurring filter option to the billing dashboard. Customer escalation, please prioritize.",feature,6,21.9,alice,Low
+T00051,Add urgent filter option to the reporting dashboard,feature,5,28.8,gita,Medium
+T00052,Roll out critical update to billing production environment,documentation,2,2.7,hassan,Medium
+T00053,Null pointer exception occurring in checkout module during automated operation,bug,7,22.2,esha,Medium
+T00054,Write unit tests for quarterly function in search module,testing,5,11.7,bharath,Low
+T00055,Implement dark mode support for mobile app screen,feature,2,8.1,alice,Medium
+T00056,"Fix crash when user uploads automated file on billing page. Blocked by another team, follow up needed.",bug,3,10.0,chen,High
+T00057,"Add quarterly filter option to the reporting dashboard. Customer escalation, please prioritize.",feature,5,15.0,hassan,Low
+T00058,"Write onboarding guide for new auth users about automated. Customer escalation, please prioritize.",documentation,0,4.9,alice,Medium
+T00059,Implement dark mode support for API gateway screen,feature,1,9.7,hassan,Medium
+T00060,"Provision new large servers for API gateway scaling. Blocked by another team, follow up needed.",deployment,0,11.4,hassan,High
+T00061,"Write onboarding guide for new admin users about automated. Customer escalation, please prioritize.",documentation,5,14.1,bharath,Low
+T00062,"Add quarterly filter option to the search dashboard. Blocked by another team, follow up needed.",feature,4,2.1,alice,Medium
+T00063,Perform load testing on profile service under recurring traffic,testing,4,7.0,alice,Medium
+T00064,Roll out nightly update to inventory production environment,deployment,13,8.5,farhan,Low
+T00065,"Fix crash when user uploads quarterly file on auth page. Customer escalation, please prioritize.",bug,5,17.5,farhan,Medium
+T00066,"Application freezes after clicking user-reported button on checkout. Customer escalation, please prioritize.",bug,3,7.0,divya,High
+T00067,Add large filter option to the API gateway dashboard,feature,1,3.5,chen,Medium
+T00068,Implement dark mode support for reporting screen. Related to the checkout incident from last week.,feature,1,6.0,alice,Medium
+T00069,Build export to large functionality for search reports,feature,6,16.3,bharath,Low
+T00070,Login fails intermittently with nightly error on mobile app browser,bug,1,7.7,chen,High
+T00071,Configure CI/CD pipeline for mobile app service on automated. Related to the admin incident from last week.,deployment,3,14.9,alice,Medium
+T00072,Add large filter option to the billing dashboard. Related to the search incident from last week.,feature,11,4.6,gita,Low
+T00073,Add code comments explaining large logic in profile module,documentation,11,6.7,esha,Low
+T00074,Login fails intermittently with scheduled error on checkout browser. Related to the search incident from last week.,bug,10,20.4,divya,Medium
+T00075,Create changelog entry for nightly release of search,documentation,1,19.5,chen,Medium
+T00076,"Increase test coverage for profile edge cases in urgent. Customer escalation, please prioritize.",testing,2,7.2,chen,Medium
+T00077,"Write onboarding guide for new billing users about user-reported. Blocked by another team, follow up needed.",documentation,12,22.5,alice,Low
+T00078,Write unit tests for scheduled function in reporting module. Please review before the next sprint.,testing,20,45.4,alice,Medium
+T00079,Fix crash when user uploads urgent file on API gateway page. Please review before the next sprint.,bug,2,17.8,bharath,High
+T00080,Set up monitoring alerts for inventory after critical deploy. Please review before the next sprint.,deployment,0,5.4,bharath,High
+T00081,"Login fails intermittently with user-reported error on billing browser. Blocked by another team, follow up needed.",bug,9,2.8,hassan,Medium
+T00082,Increase test coverage for auth edge cases in nightly,testing,1,46.0,farhan,Medium
+T00083,Add notification system for large events in checkout,feature,4,7.6,gita,Medium
+T00084,"Application freezes after clicking recurring button on billing. Blocked by another team, follow up needed.",bug,10,22.8,gita,Low
+T00085,"Fix crash when user uploads urgent file on auth page. Customer escalation, please prioritize.",bug,4,18.3,hassan,High
+T00086,Set up regression test suite for search after minor change,testing,1,15.3,gita,Medium
+T00087,Perform load testing on profile service under critical traffic,deployment,2,3.1,gita,Medium
+T00088,"Update API docs for the search endpoint covering recurring usage. Blocked by another team, follow up needed.",documentation,14,6.3,hassan,Low
+T00089,Add recurring filter option to the auth dashboard. Please review before the next sprint.,feature,3,2.8,chen,Medium
+T00090,Data not saving correctly after recurring update in reporting form,bug,0,1.9,alice,High
+T00091,Perform load testing on inventory service under automated traffic,testing,1,18.9,esha,Medium
+T00092,Data not saving correctly after large update in API gateway form,bug,2,5.9,chen,High
+T00093,"Application freezes after clicking automated button on search. Customer escalation, please prioritize.",bug,2,11.9,farhan,High
+T00094,Create changelog entry for nightly release of billing. Related to the profile incident from last week.,documentation,3,12.4,chen,Low
+T00095,Implement dark mode support for search screen. Please review before the next sprint.,feature,2,29.1,alice,Medium
+T00096,Perform load testing on inventory service under critical traffic. Related to the auth incident from last week.,testing,1,16.1,divya,High
+T00097,Provision new large servers for reporting scaling,deployment,5,6.9,gita,Medium
+T00098,Null pointer exception occurring in reporting module during automated operation. Please review before the next sprint.,bug,4,1.2,gita,Medium
+T00099,Roll out quarterly update to checkout production environment,deployment,0,24.6,farhan,Medium
+T00100,Login fails intermittently with recurring error on auth browser,bug,3,1.0,hassan,Medium
+T00101,Write unit tests for recurring function in billing module,testing,4,10.7,chen,Medium
+T00102,"Data not saving correctly after large update in search form. Blocked by another team, follow up needed.",bug,4,5.6,gita,Medium
+T00103,Write unit tests for critical function in admin module,testing,9,16.1,esha,Medium
+T00104,"Add user-reported filter option to the admin dashboard. Blocked by another team, follow up needed.",feature,7,15.0,gita,Low
+T00105,"Create new recurring widget for the mobile app homepage. Blocked by another team, follow up needed.",feature,1,11.3,esha,Medium
+T00106,Fix crash when user uploads automated file on mobile app page. Please review before the next sprint.,bug,7,6.6,alice,Medium
+T00107,Update API docs for the auth endpoint covering automated usage. Related to the checkout incident from last week.,documentation,5,12.9,hassan,Low
+T00108,"Login fails intermittently with urgent error on checkout browser. Customer escalation, please prioritize.",bug,2,8.7,bharath,Medium
+T00109,"Write unit tests for urgent function in checkout module. Blocked by another team, follow up needed.",testing,1,9.7,divya,High
+T00110,Provision new large servers for checkout scaling,deployment,3,22.5,bharath,Medium
+T00111,"Configure CI/CD pipeline for admin service on scheduled. Customer escalation, please prioritize.",deployment,1,8.1,esha,Medium
+T00112,Document deployment steps for reporting service on scheduled,documentation,10,8.8,farhan,Low
+T00113,Null pointer exception occurring in checkout module during quarterly operation,feature,4,10.2,divya,Medium
+T00114,Increase test coverage for API gateway edge cases in quarterly. Please review before the next sprint.,testing,2,15.5,divya,Medium
+T00115,Set up regression test suite for inventory after large change. Please review before the next sprint.,testing,3,6.1,divya,Medium
+T00116,"Application freezes after clicking large button on inventory. Customer escalation, please prioritize.",bug,0,9.2,chen,High
+T00117,Data not saving correctly after minor update in checkout form,bug,1,13.7,divya,High
+T00118,"Application freezes after clicking large button on API gateway. Blocked by another team, follow up needed.",bug,1,3.1,hassan,High
+T00119,"Fix crash when user uploads large file on search page. Customer escalation, please prioritize.",bug,7,,divya,Medium
+T00120,Fix crash when user uploads quarterly file on billing page,bug,5,2.7,gita,Medium
+T00121,"Implement dark mode support for admin screen. Customer escalation, please prioritize.",feature,0,8.7,gita,Medium
+T00122,Update API docs for the inventory endpoint covering large usage. Please review before the next sprint.,documentation,6,5.9,farhan,Low
+T00123,Add notification system for minor events in billing. Related to the admin incident from last week.,feature,0,11.7,esha,Medium
+T00124,Add integration tests covering scheduled flow in reporting. Related to the inventory incident from last week.,testing,4,19.8,gita,Medium
+T00125,Provision new critical servers for inventory scaling. Please review before the next sprint.,deployment,4,2.2,hassan,Medium
+T00126,"Increase test coverage for profile edge cases in quarterly. Blocked by another team, follow up needed.",testing,8,36.2,bharath,Low
+T00127,Set up regression test suite for mobile app after quarterly change,testing,4,7.5,esha,Low
+T00128,Document deployment steps for inventory service on recurring. Related to the auth incident from last week.,documentation,1,3.6,esha,Medium
+T00129,Login fails intermittently with large error on search browser. Related to the admin incident from last week.,documentation,2,2.4,alice,High
+T00130,Implement dark mode support for profile screen,feature,5,13.5,bharath,Medium
+T00131,"Login fails intermittently with quarterly error on API gateway browser. Blocked by another team, follow up needed.",bug,0,25.0,esha,High
+T00132,Update API docs for the checkout endpoint covering minor usage,documentation,5,9.0,divya,Low
+T00133,"Set up regression test suite for API gateway after quarterly change. Customer escalation, please prioritize.",testing,0,3.1,bharath,Medium
+T00134,Add code comments explaining large logic in mobile app module,documentation,0,13.7,esha,Medium
+T00135,Set up regression test suite for profile after scheduled change. Related to the checkout incident from last week.,testing,0,1.0,bharath,Medium
+T00136,Add notification system for automated events in profile,feature,3,9.4,farhan,Medium
+T00137,"Build export to recurring functionality for reporting reports. Blocked by another team, follow up needed.",feature,0,13.9,esha,Medium
+T00138,Perform load testing on search service under scheduled traffic,testing,1,14.4,gita,Medium
+T00139,Update API docs for the mobile app endpoint covering nightly usage,documentation,12,13.1,gita,Low
+T00140,Login fails intermittently with recurring error on checkout browser,bug,1,28.7,alice,High
+T00141,Set up regression test suite for inventory after recurring change,testing,12,13.6,bharath,Low
+T00142,"Write unit tests for urgent function in billing module. Blocked by another team, follow up needed.",testing,2,15.8,divya,High
+T00143,Implement dark mode support for admin screen,feature,5,21.3,alice,Medium
+T00144,"Create new automated widget for the mobile app homepage. Blocked by another team, follow up needed.",feature,2,7.7,divya,Low
+T00145,"Set up regression test suite for reporting after urgent change. Customer escalation, please prioritize.",testing,11,6.4,gita,Low
+T00146,Set up monitoring alerts for profile after recurring deploy,deployment,1,9.5,gita,High
+T00147,Add integration tests covering large flow in profile. Related to the mobile app incident from last week.,testing,3,19.7,divya,Medium
+T00148,"Null pointer exception occurring in admin module during automated operation. Blocked by another team, follow up needed.",bug,3,2.8,alice,High
+T00149,Data not saving correctly after scheduled update in mobile app form. Related to the mobile app incident from last week.,bug,5,1.0,alice,Medium
+T00150,Application freezes after clicking minor button on reporting. Related to the mobile app incident from last week.,bug,0,5.5,alice,High
+T00151,Configure CI/CD pipeline for search service on quarterly. Please review before the next sprint.,deployment,0,8.2,divya,High
+T00152,"Update API docs for the checkout endpoint covering user-reported usage. Customer escalation, please prioritize.",deployment,5,3.3,farhan,Low
+T00153,Application freezes after clicking minor button on API gateway,bug,4,7.1,farhan,Medium
+T00154,"Add scheduled filter option to the mobile app dashboard. Blocked by another team, follow up needed.",feature,8,2.9,divya,Low
+T00155,Add code comments explaining automated logic in auth module,documentation,5,16.4,farhan,Medium
+T00156,Write onboarding guide for new search users about minor,documentation,5,5.6,farhan,Low
+T00157,"Write unit tests for nightly function in profile module. Customer escalation, please prioritize.",testing,2,10.6,esha,Medium
+T00158,"Fix crash when user uploads urgent file on inventory page. Blocked by another team, follow up needed.",bug,0,7.9,alice,High
+T00159,"Configure CI/CD pipeline for auth service on large. Blocked by another team, follow up needed.",deployment,14,13.1,divya,Medium
+T00160,Roll out scheduled update to checkout production environment,deployment,2,15.1,alice,High
+T00161,Application freezes after clicking recurring button on auth. Related to the profile incident from last week.,bug,4,11.0,alice,High
+T00162,"Create new minor widget for the auth homepage. Customer escalation, please prioritize.",feature,8,5.0,divya,Low
+T00163,Migrate checkout database to minor during maintenance window,deployment,0,3.3,divya,High
+T00164,Create new critical widget for the checkout homepage. Related to the mobile app incident from last week.,feature,0,6.2,farhan,Medium
+T00165,"Login fails intermittently with large error on profile browser. Blocked by another team, follow up needed.",bug,1,5.3,divya,High
+T00166,"Create new minor widget for the auth homepage. Customer escalation, please prioritize.",feature,8,18.5,bharath,Medium
+T00167,Create new automated widget for the reporting homepage. Related to the admin incident from last week.,feature,3,4.1,gita,Medium
+T00168,Data not saving correctly after automated update in profile form. Related to the profile incident from last week.,bug,1,21.1,esha,High
+T00169,Perform load testing on mobile app service under large traffic. Please review before the next sprint.,testing,1,6.0,bharath,High
+T00170,"Data not saving correctly after quarterly update in checkout form. Customer escalation, please prioritize.",bug,5,5.8,chen,Medium
+T00171,Provision new nightly servers for admin scaling. Please review before the next sprint.,deployment,6,5.0,chen,Medium
+T00172,Set up monitoring alerts for API gateway after critical deploy,deployment,3,5.0,alice,Medium
+T00173,Write unit tests for user-reported function in checkout module. Related to the auth incident from last week.,testing,0,24.2,bharath,High
+T00174,"Roll out urgent update to profile production environment. Blocked by another team, follow up needed.",deployment,0,17.9,hassan,High
+T00175,Fix crash when user uploads nightly file on checkout page. Please review before the next sprint.,bug,2,1.0,divya,High
+T00176,Application freezes after clicking large button on admin,bug,1,12.5,alice,High
+T00177,Create changelog entry for nightly release of admin,documentation,7,3.9,chen,Low
+T00178,Create new recurring widget for the checkout homepage,feature,5,3.3,farhan,Low
+T00179,Document deployment steps for auth service on scheduled,documentation,0,19.9,hassan,Medium
+T00180,Fix crash when user uploads urgent file on auth page. Please review before the next sprint.,bug,0,23.7,bharath,High
+T00181,Increase test coverage for mobile app edge cases in recurring,testing,3,22.4,divya,Medium
+T00182,"Null pointer exception occurring in mobile app module during urgent operation. Blocked by another team, follow up needed.",bug,9,11.9,gita,Low
+T00183,Increase test coverage for search edge cases in automated,testing,2,2.2,divya,Medium
+T00184,Provision new critical servers for admin scaling,deployment,4,32.5,bharath,High
+T00185,Add code comments explaining critical logic in billing module,documentation,0,20.8,esha,Medium
+T00186,Create new minor widget for the reporting homepage. Please review before the next sprint.,feature,1,6.1,gita,Medium
+T00187,Provision new large servers for billing scaling,deployment,5,7.5,farhan,Medium
+T00188,"Add integration tests covering urgent flow in mobile app. Blocked by another team, follow up needed.",testing,2,6.4,esha,Medium
+T00189,Application freezes after clicking automated button on auth,bug,9,14.5,esha,Medium
+T00190,Write onboarding guide for new billing users about critical. Please review before the next sprint.,documentation,7,13.0,gita,Low
+T00191,Create new nightly widget for the API gateway homepage,feature,0,4.3,bharath,Medium
+T00192,"Add integration tests covering user-reported flow in inventory. Blocked by another team, follow up needed.",testing,3,1.0,gita,Medium
+T00193,Increase test coverage for admin edge cases in minor,testing,0,2.1,bharath,Medium
+T00194,Null pointer exception occurring in admin module during urgent operation. Please review before the next sprint.,bug,1,6.0,farhan,High
+T00195,"Create new recurring widget for the API gateway homepage. Customer escalation, please prioritize.",feature,7,38.1,bharath,Medium
+T00196,Null pointer exception occurring in mobile app module during scheduled operation. Related to the API gateway incident from last week.,bug,3,30.9,hassan,Medium
+T00197,"Application freezes after clicking automated button on auth. Customer escalation, please prioritize.",bug,1,5.5,farhan,High
+T00198,"Data not saving correctly after scheduled update in profile form. Blocked by another team, follow up needed.",bug,4,13.1,hassan,High
+T00199,"Configure CI/CD pipeline for profile service on automated. Customer escalation, please prioritize.",deployment,2,1.0,esha,Medium
+T00200,"Null pointer exception occurring in admin module during nightly operation. Blocked by another team, follow up needed.",bug,4,22.3,hassan,High
+T00201,"Add notification system for minor events in inventory. Blocked by another team, follow up needed.",feature,1,7.6,esha,Medium
+T00202,Perform load testing on inventory service under minor traffic,testing,0,11.6,hassan,Medium
+T00203,"Create new urgent widget for the checkout homepage. Blocked by another team, follow up needed.",feature,19,4.7,chen,Low
+T00204,"Add integration tests covering automated flow in search. Customer escalation, please prioritize.",testing,8,31.6,chen,Low
+T00205,Update API docs for the admin endpoint covering urgent usage. Related to the inventory incident from last week.,documentation,8,4.1,hassan,Low
+T00206,Increase test coverage for checkout edge cases in minor. Please review before the next sprint.,testing,2,17.2,farhan,Medium
+T00207,"Increase test coverage for billing edge cases in critical. Blocked by another team, follow up needed.",testing,1,6.8,alice,Medium
+T00208,Set up monitoring alerts for API gateway after minor deploy. Please review before the next sprint.,deployment,2,26.1,alice,Medium
+T00209,Perform load testing on auth service under recurring traffic. Please review before the next sprint.,testing,5,4.2,farhan,Low
+T00210,Build export to critical functionality for profile reports. Please review before the next sprint.,feature,2,13.3,chen,Medium
+T00211,"Set up regression test suite for mobile app after quarterly change. Customer escalation, please prioritize.",testing,3,5.1,esha,Medium
+T00212,"Fix crash when user uploads large file on admin page. Blocked by another team, follow up needed.",bug,8,16.0,divya,Medium
+T00213,Update API docs for the reporting endpoint covering nightly usage,documentation,9,6.3,farhan,Low
+T00214,"Create new minor widget for the search homepage. Customer escalation, please prioritize.",feature,6,6.5,bharath,Low
+T00215,"Create changelog entry for quarterly release of admin. Blocked by another team, follow up needed.",documentation,2,14.5,esha,Medium
+T00216,"Migrate auth database to user-reported during maintenance window. Blocked by another team, follow up needed.",deployment,3,8.2,farhan,Medium
+T00217,Application freezes after clicking quarterly button on mobile app. Please review before the next sprint.,bug,5,9.2,divya,Medium
+T00218,Set up monitoring alerts for billing after automated deploy. Please review before the next sprint.,deployment,4,1.0,alice,Low
+T00219,"Fix crash when user uploads nightly file on profile page. Blocked by another team, follow up needed.",feature,2,12.7,chen,High
+T00220,Create new large widget for the mobile app homepage. Please review before the next sprint.,feature,3,11.6,hassan,Medium
+T00221,"Provision new large servers for admin scaling. Blocked by another team, follow up needed.",deployment,2,12.2,hassan,High
+T00222,Set up regression test suite for search after automated change. Please review before the next sprint.,testing,6,7.4,alice,Low
+T00223,Build export to nightly functionality for profile reports. Please review before the next sprint.,feature,2,21.6,esha,Medium
+T00224,"Build export to automated functionality for checkout reports. Customer escalation, please prioritize.",feature,0,7.8,esha,Medium
+T00225,Null pointer exception occurring in mobile app module during large operation,bug,3,4.8,esha,Medium
+T00226,Update API docs for the admin endpoint covering quarterly usage. Please review before the next sprint.,documentation,9,5.8,gita,Low
+T00227,"Migrate auth database to recurring during maintenance window. Customer escalation, please prioritize.",testing,2,17.5,alice,Medium
+T00228,"Write onboarding guide for new search users about nightly. Blocked by another team, follow up needed.",documentation,11,4.2,divya,Low
+T00229,Application freezes after clicking large button on billing,bug,9,22.8,farhan,Medium
+T00230,Create changelog entry for recurring release of search,documentation,0,14.9,chen,Medium
+T00231,Set up monitoring alerts for auth after automated deploy. Related to the inventory incident from last week.,deployment,7,1.5,esha,Low
+T00232,"Build export to quarterly functionality for inventory reports. Blocked by another team, follow up needed.",feature,8,9.2,hassan,Low
+T00233,Configure CI/CD pipeline for checkout service on large,deployment,7,8.4,hassan,Medium
+T00234,"Data not saving correctly after urgent update in reporting form. Blocked by another team, follow up needed.",bug,0,12.7,esha,High
+T00235,"Configure CI/CD pipeline for API gateway service on nightly. Customer escalation, please prioritize.",deployment,6,10.7,farhan,Medium
+T00236,Provision new recurring servers for inventory scaling,deployment,3,5.6,alice,Medium
+T00237,Configure CI/CD pipeline for auth service on critical. Related to the profile incident from last week.,deployment,9,1.6,alice,Medium
+T00238,Build export to user-reported functionality for auth reports. Related to the billing incident from last week.,feature,10,9.6,gita,Low
+T00239,"Increase test coverage for admin edge cases in user-reported. Blocked by another team, follow up needed.",testing,5,4.0,chen,Low
+T00240,Create new quarterly widget for the checkout homepage,feature,5,19.3,farhan,Medium
+T00241,Write unit tests for nightly function in auth module,deployment,15,19.3,gita,Low
+T00242,Write unit tests for urgent function in admin module,testing,8,11.5,gita,Low
+T00243,"Add notification system for scheduled events in auth. Customer escalation, please prioritize.",feature,0,5.4,divya,High
+T00244,"Null pointer exception occurring in admin module during automated operation. Blocked by another team, follow up needed.",bug,1,17.9,esha,High
+T00245,Create new urgent widget for the auth homepage,feature,2,5.5,hassan,Medium
+T00246,Add code comments explaining minor logic in checkout module,documentation,3,5.2,farhan,Low
+T00247,Null pointer exception occurring in checkout module during quarterly operation. Related to the admin incident from last week.,bug,4,5.9,farhan,Medium
+T00248,"Update API docs for the search endpoint covering scheduled usage. Blocked by another team, follow up needed.",documentation,0,11.5,divya,Medium
+T00249,Provision new critical servers for billing scaling,deployment,2,9.5,chen,High
+T00250,Create changelog entry for urgent release of search. Please review before the next sprint.,documentation,7,10.7,esha,Low
+T00251,Create changelog entry for automated release of billing,documentation,3,19.7,hassan,Low
+T00252,Add notification system for user-reported events in reporting. Please review before the next sprint.,feature,4,28.6,farhan,Medium
+T00253,Configure CI/CD pipeline for reporting service on minor,deployment,0,16.2,chen,High
+T00254,Create changelog entry for nightly release of inventory,documentation,4,19.9,esha,Medium
+T00255,Perform load testing on inventory service under urgent traffic. Related to the inventory incident from last week.,documentation,6,4.7,divya,Medium
+T00256,Roll out automated update to inventory production environment. Please review before the next sprint.,deployment,3,4.7,divya,Medium
+T00257,Application freezes after clicking user-reported button on checkout,bug,1,10.8,farhan,High
+T00258,"Create changelog entry for minor release of reporting. Blocked by another team, follow up needed.",documentation,0,11.4,hassan,Medium
+T00259,Application freezes after clicking user-reported button on checkout. Related to the reporting incident from last week.,bug,5,11.2,hassan,Medium
+T00260,Add notification system for scheduled events in mobile app. Please review before the next sprint.,feature,1,12.9,esha,Medium
+T00261,"Migrate billing database to large during maintenance window. Blocked by another team, follow up needed.",deployment,1,19.8,bharath,High
+T00262,"Migrate mobile app database to minor during maintenance window. Customer escalation, please prioritize.",deployment,0,10.3,esha,High
+T00263,Roll out automated update to auth production environment,deployment,9,19.4,alice,Medium
+T00264,"Increase test coverage for mobile app edge cases in scheduled. Blocked by another team, follow up needed.",testing,3,14.9,divya,Medium
+T00265,Build export to quarterly functionality for reporting reports,feature,4,13.7,esha,Medium
+T00266,Set up regression test suite for reporting after large change. Please review before the next sprint.,testing,4,10.0,bharath,Medium
+T00267,Add notification system for automated events in search. Related to the admin incident from last week.,feature,9,6.8,alice,Low
+T00268,Provision new automated servers for profile scaling. Please review before the next sprint.,documentation,2,2.8,chen,Medium
+T00269,Update API docs for the profile endpoint covering recurring usage,documentation,4,24.9,bharath,Low
+T00270,Roll out user-reported update to mobile app production environment,deployment,0,11.8,esha,High
+T00271,"Increase test coverage for auth edge cases in urgent. Blocked by another team, follow up needed.",testing,9,8.4,bharath,Low
+T00272,"Add notification system for quarterly events in API gateway. Blocked by another team, follow up needed.",documentation,1,3.1,gita,Medium
+T00273,Login fails intermittently with automated error on auth browser,bug,3,5.7,bharath,High
+T00274,Add notification system for quarterly events in search,documentation,3,42.9,farhan,High
+T00275,"Data not saving correctly after minor update in auth form. Customer escalation, please prioritize.",bug,6,22.7,gita,Medium
+T00276,Provision new user-reported servers for auth scaling,deployment,0,2.7,farhan,High
+T00277,Document deployment steps for API gateway service on quarterly. Related to the checkout incident from last week.,documentation,7,15.1,alice,Low
+T00278,Configure CI/CD pipeline for search service on urgent,deployment,7,4.8,gita,Medium
+T00279,Document deployment steps for billing service on scheduled. Related to the reporting incident from last week.,documentation,9,8.5,alice,Low
+T00280,Add notification system for urgent events in auth. Please review before the next sprint.,feature,6,15.8,chen,Low
+T00281,"Add notification system for recurring events in billing. Customer escalation, please prioritize.",feature,0,14.3,gita,High
+T00282,Increase test coverage for mobile app edge cases in scheduled. Please review before the next sprint.,testing,3,1.6,hassan,Medium
+T00283,Increase test coverage for API gateway edge cases in critical. Please review before the next sprint.,testing,5,2.3,alice,Medium
+T00284,"Application freezes after clicking recurring button on reporting. Customer escalation, please prioritize.",bug,0,7.4,farhan,High
+T00285,Login fails intermittently with large error on inventory browser. Please review before the next sprint.,bug,6,5.6,farhan,Medium
+T00286,"Create new recurring widget for the reporting homepage. Blocked by another team, follow up needed.",feature,5,,chen,Medium
+T00287,Add code comments explaining nightly logic in checkout module. Related to the mobile app incident from last week.,documentation,19,10.3,farhan,Low
+T00288,Configure CI/CD pipeline for checkout service on urgent. Related to the profile incident from last week.,deployment,2,3.6,bharath,Medium
+T00289,Add integration tests covering nightly flow in API gateway,testing,17,5.4,farhan,Low
+T00290,"Add notification system for critical events in profile. Customer escalation, please prioritize.",feature,1,17.7,hassan,Medium
+T00291,Build export to recurring functionality for profile reports. Please review before the next sprint.,feature,0,14.9,farhan,High
+T00292,Create new large widget for the billing homepage,feature,4,7.7,divya,Low
+T00293,"Update API docs for the checkout endpoint covering automated usage. Customer escalation, please prioritize.",documentation,1,13.0,chen,Medium
+T00294,Login fails intermittently with large error on mobile app browser. Please review before the next sprint.,bug,6,15.3,gita,Medium
+T00295,"Fix crash when user uploads user-reported file on search page. Customer escalation, please prioritize.",bug,0,29.9,chen,High
+T00296,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",feature,13,2.6,alice,Low
+T00297,Set up monitoring alerts for billing after automated deploy. Please review before the next sprint.,deployment,8,18.2,esha,Low
+T00298,"Perform load testing on API gateway service under recurring traffic. Customer escalation, please prioritize.",testing,2,34.7,divya,Medium
+T00299,Build export to automated functionality for mobile app reports,feature,1,5.5,divya,Medium
+T00300,Application freezes after clicking scheduled button on checkout. Please review before the next sprint.,bug,12,10.3,divya,Low
+T00301,"Provision new minor servers for auth scaling. Customer escalation, please prioritize.",deployment,1,3.7,gita,Medium
+T00302,Add integration tests covering minor flow in admin. Please review before the next sprint.,testing,1,15.0,alice,Medium
+T00303,Configure CI/CD pipeline for search service on large,deployment,2,11.4,farhan,High
+T00304,Migrate auth database to quarterly during maintenance window,deployment,2,3.7,esha,Medium
+T00305,Create new large widget for the reporting homepage,feature,6,10.9,alice,Medium
+T00306,Implement dark mode support for API gateway screen. Related to the auth incident from last week.,feature,1,43.0,gita,High
+T00307,"Login fails intermittently with nightly error on admin browser. Customer escalation, please prioritize.",bug,2,24.4,gita,Medium
+T00308,Null pointer exception occurring in inventory module during critical operation. Please review before the next sprint.,bug,0,11.1,esha,High
+T00309,Null pointer exception occurring in reporting module during large operation,bug,2,9.0,esha,High
+T00310,Document deployment steps for auth service on user-reported,documentation,4,3.7,divya,Low
+T00311,Perform load testing on inventory service under user-reported traffic. Please review before the next sprint.,testing,0,12.2,chen,Medium
+T00312,Set up monitoring alerts for mobile app after urgent deploy. Related to the auth incident from last week.,deployment,1,2.8,gita,Medium
+T00313,Create changelog entry for recurring release of checkout,documentation,8,1.4,farhan,Low
+T00314,"Add code comments explaining minor logic in API gateway module. Customer escalation, please prioritize.",documentation,5,8.5,esha,Low
+T00315,Login fails intermittently with nightly error on mobile app browser. Related to the API gateway incident from last week.,testing,7,17.0,alice,Medium
+T00316,"Create changelog entry for quarterly release of mobile app. Blocked by another team, follow up needed.",documentation,6,11.6,hassan,Low
+T00317,"Provision new scheduled servers for API gateway scaling. Blocked by another team, follow up needed.",deployment,2,5.0,alice,High
+T00318,Login fails intermittently with automated error on billing browser. Related to the checkout incident from last week.,bug,0,1.0,farhan,High
+T00319,Update API docs for the API gateway endpoint covering urgent usage,documentation,1,18.6,farhan,Medium
+T00320,"Add integration tests covering urgent flow in profile. Blocked by another team, follow up needed.",testing,2,23.9,gita,Medium
+T00321,Set up regression test suite for checkout after nightly change,testing,2,2.1,hassan,Medium
+T00322,Add integration tests covering nightly flow in billing,testing,6,7.9,chen,Low
+T00323,"Set up monitoring alerts for auth after large deploy. Blocked by another team, follow up needed.",documentation,7,15.5,gita,Low
+T00324,"Add integration tests covering large flow in profile. Customer escalation, please prioritize.",testing,4,6.4,esha,Low
+T00325,Document deployment steps for API gateway service on recurring,documentation,2,2.4,chen,Low
+T00326,Document deployment steps for auth service on urgent,documentation,19,19.4,alice,Low
+T00327,Provision new recurring servers for reporting scaling,deployment,2,9.5,esha,Medium
+T00328,Roll out scheduled update to auth production environment. Please review before the next sprint.,deployment,4,11.2,divya,Medium
+T00329,Roll out minor update to checkout production environment. Please review before the next sprint.,deployment,0,6.4,hassan,Medium
+T00330,Data not saving correctly after large update in inventory form. Related to the profile incident from last week.,bug,0,11.6,esha,High
+T00331,Login fails intermittently with minor error on reporting browser,bug,5,13.7,hassan,Medium
+T00332,"Write unit tests for critical function in auth module. Blocked by another team, follow up needed.",testing,11,12.4,gita,Low
+T00333,"Login fails intermittently with quarterly error on search browser. Blocked by another team, follow up needed.",bug,5,7.7,bharath,Medium
+T00334,Null pointer exception occurring in checkout module during minor operation,bug,14,9.2,esha,Low
+T00335,"Migrate reporting database to nightly during maintenance window. Customer escalation, please prioritize.",deployment,1,2.6,divya,Medium
+T00336,Add integration tests covering scheduled flow in admin,testing,3,15.1,esha,Low
+T00337,Increase test coverage for billing edge cases in quarterly. Please review before the next sprint.,testing,20,27.4,bharath,Low
+T00338,Add integration tests covering critical flow in admin. Please review before the next sprint.,testing,1,22.8,alice,Medium
+T00339,"Data not saving correctly after recurring update in mobile app form. Blocked by another team, follow up needed.",bug,9,19.3,gita,Medium
+T00340,Create new large widget for the billing homepage,feature,3,10.7,farhan,Medium
+T00341,"Update API docs for the inventory endpoint covering scheduled usage. Blocked by another team, follow up needed.",documentation,1,6.0,farhan,Medium
+T00342,Update API docs for the auth endpoint covering scheduled usage. Related to the auth incident from last week.,documentation,11,23.0,esha,Low
+T00343,"Update API docs for the API gateway endpoint covering urgent usage. Blocked by another team, follow up needed.",documentation,4,16.1,alice,Medium
+T00344,Set up regression test suite for billing after large change,testing,0,17.9,farhan,Medium
+T00345,Set up monitoring alerts for search after quarterly deploy. Please review before the next sprint.,deployment,6,24.8,farhan,Medium
+T00346,Perform load testing on search service under recurring traffic,testing,1,11.1,alice,Medium
+T00347,Perform load testing on profile service under quarterly traffic,testing,4,22.5,chen,Medium
+T00348,Login fails intermittently with large error on mobile app browser. Please review before the next sprint.,testing,1,7.1,farhan,Medium
+T00349,Fix crash when user uploads large file on API gateway page,bug,9,2.5,chen,Low
+T00350,Increase test coverage for admin edge cases in critical. Please review before the next sprint.,testing,16,14.4,alice,Low
+T00351,Login fails intermittently with recurring error on inventory browser,bug,10,4.6,bharath,Medium
+T00352,"Update API docs for the profile endpoint covering user-reported usage. Blocked by another team, follow up needed.",documentation,1,6.0,alice,Medium
+T00353,Configure CI/CD pipeline for admin service on nightly. Related to the profile incident from last week.,deployment,1,6.6,gita,Medium
+T00354,Configure CI/CD pipeline for auth service on recurring. Related to the admin incident from last week.,deployment,3,22.6,bharath,High
+T00355,"Application freezes after clicking automated button on billing. Customer escalation, please prioritize.",bug,5,1.7,divya,Medium
+T00356,Fix crash when user uploads scheduled file on mobile app page. Related to the auth incident from last week.,bug,2,22.8,farhan,High
+T00357,Data not saving correctly after automated update in API gateway form,bug,4,3.3,esha,Medium
+T00358,"Login fails intermittently with quarterly error on profile browser. Customer escalation, please prioritize.",bug,0,10.5,hassan,High
+T00359,"Add nightly filter option to the reporting dashboard. Customer escalation, please prioritize.",feature,0,8.5,farhan,Medium
+T00360,"Null pointer exception occurring in admin module during large operation. Blocked by another team, follow up needed.",bug,5,4.3,chen,Medium
+T00361,Create changelog entry for scheduled release of API gateway,documentation,1,9.5,gita,Medium
+T00362,Fix crash when user uploads quarterly file on inventory page,bug,4,14.3,esha,Medium
+T00363,Application freezes after clicking nightly button on billing. Please review before the next sprint.,bug,1,9.5,farhan,High
+T00364,Data not saving correctly after scheduled update in billing form,bug,1,8.9,gita,High
+T00365,"Build export to recurring functionality for checkout reports. Blocked by another team, follow up needed.",feature,13,7.0,gita,Low
+T00366,"Migrate billing database to critical during maintenance window. Customer escalation, please prioritize.",deployment,1,13.5,hassan,High
+T00367,"Build export to recurring functionality for billing reports. Customer escalation, please prioritize.",feature,2,21.9,gita,High
+T00368,"Add code comments explaining minor logic in API gateway module. Blocked by another team, follow up needed.",documentation,4,10.1,alice,Low
+T00369,Set up regression test suite for reporting after critical change. Related to the mobile app incident from last week.,testing,1,8.0,esha,Medium
+T00370,Increase test coverage for search edge cases in quarterly,testing,3,8.3,gita,Medium
+T00371,Implement dark mode support for search screen. Related to the profile incident from last week.,feature,1,11.2,chen,High
+T00372,"Migrate mobile app database to large during maintenance window. Customer escalation, please prioritize.",deployment,9,8.3,farhan,Medium
+T00373,Application freezes after clicking automated button on auth. Please review before the next sprint.,bug,3,1.6,bharath,Medium
+T00374,"Login fails intermittently with quarterly error on mobile app browser. Blocked by another team, follow up needed.",bug,0,26.6,alice,High
+T00375,"Add user-reported filter option to the auth dashboard. Blocked by another team, follow up needed.",feature,0,15.8,gita,Medium
+T00376,Null pointer exception occurring in API gateway module during user-reported operation. Related to the inventory incident from last week.,bug,1,8.8,chen,High
+T00377,Login fails intermittently with automated error on profile browser,bug,3,19.3,gita,Medium
+T00378,"Add notification system for large events in billing. Blocked by another team, follow up needed.",feature,0,11.1,gita,Medium
+T00379,Perform load testing on search service under minor traffic,testing,2,16.2,bharath,Low
+T00380,Login fails intermittently with minor error on mobile app browser,feature,2,4.1,farhan,High
+T00381,Implement dark mode support for profile screen,feature,2,5.3,farhan,Medium
+T00382,"Update API docs for the mobile app endpoint covering minor usage. Blocked by another team, follow up needed.",deployment,2,14.2,bharath,Low
+T00383,"Null pointer exception occurring in API gateway module during user-reported operation. Blocked by another team, follow up needed.",bug,0,23.0,gita,High
+T00384,Implement dark mode support for API gateway screen. Related to the checkout incident from last week.,feature,2,21.7,esha,Medium
+T00385,"Application freezes after clicking quarterly button on search. Blocked by another team, follow up needed.",bug,0,4.3,bharath,High
+T00386,Build export to automated functionality for admin reports. Related to the auth incident from last week.,documentation,1,18.7,hassan,High
+T00387,"Add notification system for user-reported events in API gateway. Blocked by another team, follow up needed.",feature,1,24.8,esha,High
+T00388,"Fix crash when user uploads minor file on checkout page. Customer escalation, please prioritize.",bug,28,13.1,alice,Low
+T00389,"Fix crash when user uploads recurring file on profile page. Blocked by another team, follow up needed.",bug,2,3.0,gita,High
+T00390,Add notification system for urgent events in profile,feature,0,16.6,hassan,Medium
+T00391,Migrate admin database to scheduled during maintenance window,deployment,6,11.9,divya,Low
+T00392,Create new minor widget for the profile homepage. Related to the inventory incident from last week.,feature,1,16.0,farhan,Medium
+T00393,Login fails intermittently with large error on reporting browser,bug,0,11.7,farhan,High
+T00394,"Create changelog entry for minor release of reporting. Customer escalation, please prioritize.",documentation,0,15.2,farhan,Medium
+T00395,Set up monitoring alerts for auth after minor deploy,deployment,3,10.8,esha,Medium
+T00396,"Fix crash when user uploads minor file on reporting page. Customer escalation, please prioritize.",bug,21,25.5,chen,Low
+T00397,Implement dark mode support for billing screen. Please review before the next sprint.,feature,5,3.5,chen,Medium
+T00398,Add code comments explaining minor logic in profile module. Please review before the next sprint.,documentation,10,30.8,esha,Low
+T00399,Set up regression test suite for search after minor change,testing,9,7.9,hassan,Low
+T00400,"Data not saving correctly after user-reported update in profile form. Customer escalation, please prioritize.",bug,18,5.2,bharath,Medium
+T00401,Application freezes after clicking critical button on inventory,bug,4,4.2,hassan,Medium
+T00402,Increase test coverage for profile edge cases in quarterly. Please review before the next sprint.,testing,7,14.0,esha,Low
+T00403,Fix crash when user uploads scheduled file on inventory page. Please review before the next sprint.,bug,5,25.6,chen,Medium
+T00404,"Create changelog entry for quarterly release of checkout. Blocked by another team, follow up needed.",documentation,2,8.7,farhan,Low
+T00405,Build export to minor functionality for admin reports. Please review before the next sprint.,feature,0,26.9,bharath,High
+T00406,Add integration tests covering quarterly flow in inventory. Please review before the next sprint.,testing,1,6.2,bharath,Medium
+T00407,"Add urgent filter option to the checkout dashboard. Blocked by another team, follow up needed.",feature,4,4.1,bharath,Medium
+T00408,"Create changelog entry for nightly release of auth. Blocked by another team, follow up needed.",documentation,3,18.5,divya,Medium
+T00409,Application freezes after clicking minor button on search. Please review before the next sprint.,bug,14,14.4,farhan,Medium
+T00410,Set up regression test suite for checkout after minor change. Related to the search incident from last week.,testing,1,22.2,farhan,Medium
+T00411,Configure CI/CD pipeline for billing service on automated. Related to the search incident from last week.,deployment,7,18.0,esha,Low
+T00412,Null pointer exception occurring in reporting module during minor operation,bug,0,8.4,farhan,High
+T00413,"Build export to automated functionality for profile reports. Customer escalation, please prioritize.",feature,1,5.2,gita,Medium
+T00414,"Write unit tests for urgent function in reporting module. Customer escalation, please prioritize.",testing,4,15.1,esha,Low
+T00415,"Perform load testing on search service under automated traffic. Customer escalation, please prioritize.",testing,3,25.7,chen,Medium
+T00416,Application freezes after clicking scheduled button on inventory,bug,15,7.6,gita,Medium
+T00417,Data not saving correctly after nightly update in reporting form,bug,26,,gita,Low
+T00418,Fix crash when user uploads scheduled file on admin page. Please review before the next sprint.,bug,3,18.9,alice,Medium
+T00419,"Fix crash when user uploads automated file on mobile app page. Blocked by another team, follow up needed.",bug,0,21.2,farhan,High
+T00420,"Write onboarding guide for new auth users about user-reported. Customer escalation, please prioritize.",documentation,2,10.9,hassan,Medium
+T00421,Create new user-reported widget for the profile homepage,feature,4,13.5,gita,Low
+T00422,"Null pointer exception occurring in reporting module during user-reported operation. Customer escalation, please prioritize.",bug,24,14.4,divya,Medium
+T00423,Document deployment steps for inventory service on quarterly,documentation,1,6.0,alice,Medium
+T00424,Perform load testing on search service under large traffic. Related to the auth incident from last week.,testing,0,23.5,gita,Medium
+T00425,"Login fails intermittently with critical error on admin browser. Blocked by another team, follow up needed.",bug,14,24.8,gita,Medium
+T00426,Roll out quarterly update to billing production environment,deployment,3,36.6,chen,High
+T00427,"Null pointer exception occurring in inventory module during minor operation. Customer escalation, please prioritize.",bug,6,2.9,esha,Medium
+T00428,"Data not saving correctly after scheduled update in search form. Blocked by another team, follow up needed.",bug,5,6.3,chen,Medium
+T00429,"Perform load testing on admin service under recurring traffic. Customer escalation, please prioritize.",testing,4,4.6,chen,Medium
+T00430,Data not saving correctly after large update in checkout form. Please review before the next sprint.,bug,4,13.8,alice,High
+T00431,Null pointer exception occurring in reporting module during nightly operation. Related to the checkout incident from last week.,bug,2,28.2,alice,High
+T00432,"Null pointer exception occurring in mobile app module during automated operation. Blocked by another team, follow up needed.",bug,1,23.0,gita,High
+T00433,"Implement dark mode support for billing screen. Customer escalation, please prioritize.",feature,10,40.6,bharath,Low
+T00434,"Data not saving correctly after automated update in mobile app form. Customer escalation, please prioritize.",bug,0,,gita,High
+T00435,"Provision new quarterly servers for API gateway scaling. Customer escalation, please prioritize.",deployment,7,1.8,bharath,Low
+T00436,Roll out quarterly update to API gateway production environment,deployment,2,8.9,chen,High
+T00437,"Build export to nightly functionality for mobile app reports. Blocked by another team, follow up needed.",feature,1,17.2,farhan,Medium
+T00438,"Build export to nightly functionality for checkout reports. Blocked by another team, follow up needed.",feature,3,3.4,esha,Medium
+T00439,Provision new user-reported servers for reporting scaling. Please review before the next sprint.,deployment,1,13.6,farhan,High
+T00440,Null pointer exception occurring in inventory module during urgent operation,bug,14,6.0,hassan,Medium
+T00441,Set up regression test suite for auth after critical change,testing,1,7.0,alice,High
+T00442,Application freezes after clicking automated button on search. Please review before the next sprint.,bug,2,9.4,chen,Medium
+T00443,Set up regression test suite for profile after critical change,testing,5,40.4,gita,Medium
+T00444,"Write onboarding guide for new checkout users about scheduled. Blocked by another team, follow up needed.",documentation,1,5.0,gita,Medium
+T00445,Provision new large servers for checkout scaling,deployment,1,12.9,esha,Medium
+T00446,Create new user-reported widget for the inventory homepage,feature,20,19.2,alice,Medium
+T00447,"Create new urgent widget for the inventory homepage. Customer escalation, please prioritize.",deployment,8,8.9,alice,Low
+T00448,Implement dark mode support for billing screen. Please review before the next sprint.,deployment,1,5.6,chen,Medium
+T00449,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",feature,6,7.2,alice,Low
+T00450,Application freezes after clicking large button on API gateway. Please review before the next sprint.,bug,0,23.2,esha,High
+T00451,Write unit tests for recurring function in reporting module,testing,0,8.4,hassan,High
+T00452,Write onboarding guide for new profile users about large,deployment,2,7.1,alice,Medium
+T00453,"Set up monitoring alerts for profile after scheduled deploy. Customer escalation, please prioritize.",deployment,24,2.8,alice,Low
+T00454,Create new scheduled widget for the profile homepage,feature,3,5.4,hassan,Medium
+T00455,"Configure CI/CD pipeline for inventory service on nightly. Customer escalation, please prioritize.",deployment,1,9.3,hassan,Medium
+T00456,Roll out large update to profile production environment. Related to the billing incident from last week.,deployment,8,8.8,gita,Low
+T00457,Set up monitoring alerts for API gateway after recurring deploy. Related to the billing incident from last week.,deployment,3,16.0,farhan,High
+T00458,Build export to recurring functionality for inventory reports,feature,1,18.7,chen,High
+T00459,Null pointer exception occurring in reporting module during large operation,bug,2,5.7,gita,High
+T00460,"Add quarterly filter option to the reporting dashboard. Customer escalation, please prioritize.",feature,4,3.1,gita,Low
+T00461,Set up regression test suite for billing after urgent change. Please review before the next sprint.,testing,17,17.4,hassan,Medium
+T00462,Build export to large functionality for checkout reports. Related to the checkout incident from last week.,testing,2,1.0,divya,Medium
+T00463,Document deployment steps for mobile app service on automated,documentation,2,2.5,hassan,Medium
+T00464,"Fix crash when user uploads nightly file on mobile app page. Blocked by another team, follow up needed.",bug,0,32.7,esha,High
+T00465,Roll out large update to checkout production environment. Related to the profile incident from last week.,documentation,12,3.7,gita,Low
+T00466,"Increase test coverage for search edge cases in user-reported. Customer escalation, please prioritize.",testing,12,4.6,esha,Low
+T00467,Build export to large functionality for reporting reports. Related to the auth incident from last week.,feature,21,14.2,farhan,Medium
+T00468,Write unit tests for large function in mobile app module. Related to the inventory incident from last week.,testing,5,16.6,esha,Medium
+T00469,Document deployment steps for API gateway service on automated,documentation,1,5.6,esha,Medium
+T00470,"Implement dark mode support for API gateway screen. Blocked by another team, follow up needed.",feature,6,8.1,bharath,Low
+T00471,Null pointer exception occurring in reporting module during user-reported operation,bug,5,36.5,divya,High
+T00472,Implement dark mode support for auth screen. Related to the inventory incident from last week.,feature,3,13.8,bharath,Medium
+T00473,"Build export to scheduled functionality for profile reports. Customer escalation, please prioritize.",feature,0,6.3,chen,Medium
+T00474,"Perform load testing on mobile app service under urgent traffic. Customer escalation, please prioritize.",testing,1,19.0,esha,Medium
+T00475,Add integration tests covering scheduled flow in reporting,testing,3,18.0,alice,Medium
+T00476,Add code comments explaining automated logic in checkout module. Related to the search incident from last week.,documentation,4,5.5,esha,Low
+T00477,Add user-reported filter option to the checkout dashboard. Related to the search incident from last week.,feature,6,15.2,hassan,Medium
+T00478,"Data not saving correctly after recurring update in reporting form. Blocked by another team, follow up needed.",bug,2,5.1,bharath,Medium
+T00479,Fix crash when user uploads critical file on checkout page,bug,3,7.7,hassan,Medium
+T00480,"Add recurring filter option to the admin dashboard. Blocked by another team, follow up needed.",feature,3,6.5,bharath,Medium
+T00481,Null pointer exception occurring in reporting module during user-reported operation. Related to the mobile app incident from last week.,bug,0,2.6,esha,High
+T00482,"Fix crash when user uploads urgent file on checkout page. Blocked by another team, follow up needed.",bug,9,30.6,bharath,Medium
+T00483,Implement dark mode support for profile screen. Please review before the next sprint.,feature,17,3.6,gita,Low
+T00484,"Document deployment steps for reporting service on automated. Customer escalation, please prioritize.",documentation,0,1.5,bharath,Medium
+T00485,Create changelog entry for critical release of auth. Related to the admin incident from last week.,documentation,4,5.6,divya,Low
+T00486,Migrate search database to recurring during maintenance window. Related to the API gateway incident from last week.,deployment,4,13.4,hassan,Medium
+T00487,Build export to automated functionality for profile reports,feature,1,15.7,gita,High
+T00488,"Data not saving correctly after scheduled update in billing form. Blocked by another team, follow up needed.",bug,14,2.0,gita,Medium
+T00489,Data not saving correctly after minor update in admin form,bug,1,11.1,chen,High
+T00490,Fix crash when user uploads quarterly file on admin page. Please review before the next sprint.,bug,12,4.7,bharath,Low
+T00491,Roll out nightly update to profile production environment. Please review before the next sprint.,deployment,2,7.9,bharath,High
+T00492,Add quarterly filter option to the checkout dashboard. Please review before the next sprint.,bug,3,7.3,hassan,Medium
+T00493,Fix crash when user uploads quarterly file on API gateway page. Please review before the next sprint.,bug,4,29.5,alice,High
+T00494,Write onboarding guide for new admin users about large,documentation,0,11.2,bharath,Medium
+T00495,Implement dark mode support for profile screen,feature,2,5.2,hassan,Medium
+T00496,Roll out quarterly update to inventory production environment,deployment,0,6.3,alice,High
+T00497,"Provision new recurring servers for profile scaling. Blocked by another team, follow up needed.",deployment,7,2.2,divya,Low
+T00498,Add integration tests covering automated flow in mobile app,deployment,0,1.9,hassan,Medium
+T00499,Fix crash when user uploads quarterly file on search page,bug,0,9.3,farhan,High
+T00500,Null pointer exception occurring in admin module during large operation. Please review before the next sprint.,bug,21,10.5,gita,Low
+T00501,Add code comments explaining minor logic in inventory module,documentation,11,8.5,alice,Low
+T00502,Add critical filter option to the API gateway dashboard,feature,2,29.6,esha,Medium
+T00503,Create new recurring widget for the search homepage,feature,2,18.1,bharath,Medium
+T00504,Write onboarding guide for new profile users about automated. Please review before the next sprint.,documentation,0,33.6,esha,Medium
+T00505,"Application freezes after clicking quarterly button on billing. Blocked by another team, follow up needed.",bug,0,44.8,chen,High
+T00506,"Null pointer exception occurring in auth module during user-reported operation. Blocked by another team, follow up needed.",feature,2,6.0,gita,High
+T00507,"Set up regression test suite for inventory after critical change. Customer escalation, please prioritize.",testing,2,4.5,bharath,Medium
+T00508,Login fails intermittently with scheduled error on checkout browser,bug,0,19.6,bharath,High
+T00509,Write onboarding guide for new profile users about quarterly. Related to the inventory incident from last week.,documentation,1,28.8,chen,Medium
+T00510,"Login fails intermittently with minor error on reporting browser. Blocked by another team, follow up needed.",bug,10,7.6,hassan,Medium
+T00511,Login fails intermittently with nightly error on mobile app browser. Please review before the next sprint.,bug,1,1.1,farhan,High
+T00512,Implement dark mode support for API gateway screen. Please review before the next sprint.,feature,2,9.4,bharath,Low
+T00513,Add integration tests covering scheduled flow in checkout,testing,3,6.9,chen,Medium
+T00514,Add quarterly filter option to the admin dashboard. Related to the profile incident from last week.,feature,0,,hassan,High
+T00515,Application freezes after clicking urgent button on admin,bug,18,3.5,hassan,Low
+T00516,"Perform load testing on billing service under scheduled traffic. Blocked by another team, follow up needed.",testing,1,5.5,chen,Medium
+T00517,"Build export to critical functionality for API gateway reports. Blocked by another team, follow up needed.",feature,12,11.3,bharath,Low
+T00518,Perform load testing on auth service under critical traffic,testing,3,5.0,divya,Medium
+T00519,Application freezes after clicking quarterly button on checkout,bug,1,1.1,alice,High
+T00520,"Data not saving correctly after scheduled update in reporting form. Customer escalation, please prioritize.",bug,1,12.1,alice,High
+T00521,Add code comments explaining large logic in inventory module. Related to the search incident from last week.,documentation,0,5.6,gita,Medium
+T00522,Application freezes after clicking recurring button on reporting. Please review before the next sprint.,bug,4,58.2,hassan,Medium
+T00523,Create changelog entry for quarterly release of profile,documentation,0,6.0,farhan,Medium
+T00524,Perform load testing on auth service under automated traffic. Please review before the next sprint.,testing,5,4.5,alice,Low
+T00525,Fix crash when user uploads urgent file on reporting page,bug,18,24.3,gita,Medium
+T00526,"Increase test coverage for profile edge cases in scheduled. Customer escalation, please prioritize.",testing,0,11.1,alice,Medium
+T00527,"Create new automated widget for the checkout homepage. Blocked by another team, follow up needed.",feature,3,7.5,esha,Low
+T00528,Add code comments explaining automated logic in admin module,documentation,0,7.7,divya,Medium
+T00529,Set up monitoring alerts for checkout after urgent deploy,deployment,6,50.6,alice,Medium
+T00530,Data not saving correctly after quarterly update in inventory form,bug,1,8.3,hassan,High
+T00531,Add user-reported filter option to the API gateway dashboard. Related to the inventory incident from last week.,feature,1,6.7,gita,Medium
+T00532,Login fails intermittently with scheduled error on search browser. Please review before the next sprint.,bug,2,2.2,chen,High
+T00533,Perform load testing on API gateway service under urgent traffic. Related to the profile incident from last week.,testing,1,3.7,chen,Medium
+T00534,Add code comments explaining user-reported logic in inventory module,documentation,8,32.6,bharath,Low
+T00535,"Perform load testing on reporting service under minor traffic. Blocked by another team, follow up needed.",testing,0,6.7,alice,Medium
+T00536,"Increase test coverage for inventory edge cases in nightly. Blocked by another team, follow up needed.",testing,3,16.1,gita,Medium
+T00537,"Document deployment steps for API gateway service on large. Customer escalation, please prioritize.",documentation,2,11.9,gita,Medium
+T00538,"Application freezes after clicking quarterly button on auth. Blocked by another team, follow up needed.",bug,10,14.3,divya,Low
+T00539,"Migrate admin database to large during maintenance window. Customer escalation, please prioritize.",deployment,2,14.7,esha,High
+T00540,Application freezes after clicking minor button on search,bug,3,8.9,hassan,Medium
+T00541,Create new minor widget for the reporting homepage,feature,0,19.6,alice,High
+T00542,"Implement dark mode support for billing screen. Customer escalation, please prioritize.",feature,5,16.9,chen,Low
+T00543,"Set up regression test suite for reporting after quarterly change. Blocked by another team, follow up needed.",testing,4,9.1,esha,Low
+T00544,Write unit tests for minor function in profile module. Related to the mobile app incident from last week.,testing,1,2.8,gita,Medium
+T00545,"Update API docs for the reporting endpoint covering large usage. Customer escalation, please prioritize.",documentation,2,4.5,bharath,Medium
+T00546,Fix crash when user uploads user-reported file on inventory page,bug,1,11.8,divya,High
+T00547,Create changelog entry for user-reported release of API gateway. Please review before the next sprint.,documentation,0,17.7,farhan,Medium
+T00548,"Build export to minor functionality for mobile app reports. Customer escalation, please prioritize.",feature,21,6.2,alice,Low
+T00549,Add integration tests covering recurring flow in search. Related to the API gateway incident from last week.,testing,6,5.1,esha,Low
+T00550,Application freezes after clicking critical button on API gateway. Please review before the next sprint.,bug,2,,alice,High
+T00551,Null pointer exception occurring in checkout module during automated operation,bug,4,10.6,farhan,Medium
+T00552,Set up regression test suite for checkout after nightly change. Please review before the next sprint.,testing,1,19.2,hassan,High
+T00553,Null pointer exception occurring in checkout module during critical operation. Related to the reporting incident from last week.,bug,6,3.5,bharath,Medium
+T00554,Add integration tests covering urgent flow in inventory,testing,0,5.7,esha,Medium
+T00555,Add automated filter option to the billing dashboard. Please review before the next sprint.,feature,1,17.5,farhan,High
+T00556,Roll out quarterly update to auth production environment,deployment,3,7.8,esha,Medium
+T00557,Application freezes after clicking user-reported button on profile. Related to the mobile app incident from last week.,testing,13,5.8,gita,Medium
+T00558,Update API docs for the auth endpoint covering critical usage. Related to the reporting incident from last week.,documentation,1,8.7,divya,Low
+T00559,Provision new user-reported servers for checkout scaling,deployment,1,18.7,chen,High
+T00560,Null pointer exception occurring in API gateway module during user-reported operation. Please review before the next sprint.,bug,2,7.9,farhan,High
+T00561,Data not saving correctly after critical update in inventory form. Related to the checkout incident from last week.,bug,2,16.1,bharath,High
+T00562,"Add notification system for minor events in billing. Customer escalation, please prioritize.",feature,2,15.4,farhan,Medium
+T00563,"Configure CI/CD pipeline for search service on urgent. Customer escalation, please prioritize.",deployment,2,11.9,chen,Medium
+T00564,Fix crash when user uploads critical file on checkout page,bug,8,10.2,gita,Medium
+T00565,Update API docs for the mobile app endpoint covering recurring usage. Related to the inventory incident from last week.,documentation,1,11.2,chen,Medium
+T00566,Application freezes after clicking critical button on search. Related to the inventory incident from last week.,bug,1,15.6,hassan,High
+T00567,"Null pointer exception occurring in checkout module during minor operation. Blocked by another team, follow up needed.",documentation,9,15.2,bharath,Medium
+T00568,Document deployment steps for profile service on recurring. Please review before the next sprint.,documentation,1,16.2,gita,Medium
+T00569,Application freezes after clicking automated button on checkout,bug,7,10.1,alice,Low
+T00570,Implement dark mode support for auth screen,feature,3,3.7,gita,Low
+T00571,"Create changelog entry for scheduled release of billing. Customer escalation, please prioritize.",documentation,7,1.0,bharath,Low
+T00572,"Null pointer exception occurring in reporting module during large operation. Customer escalation, please prioritize.",bug,1,8.3,chen,High
+T00573,"Fix crash when user uploads scheduled file on admin page. Customer escalation, please prioritize.",bug,6,11.8,divya,Medium
+T00574,Add urgent filter option to the inventory dashboard,feature,6,12.6,bharath,Low
+T00575,Data not saving correctly after automated update in billing form,bug,3,16.2,bharath,Medium
+T00576,Build export to nightly functionality for profile reports,feature,5,15.3,gita,Medium
+T00577,Document deployment steps for search service on urgent,documentation,3,8.5,gita,Low
+T00578,"Add notification system for nightly events in checkout. Customer escalation, please prioritize.",feature,10,6.2,farhan,Low
+T00579,Set up monitoring alerts for search after critical deploy,deployment,3,3.9,gita,Medium
+T00580,Set up regression test suite for checkout after minor change,feature,10,9.4,chen,Low
+T00581,"Build export to large functionality for billing reports. Customer escalation, please prioritize.",feature,10,1.4,esha,Low
+T00582,"Login fails intermittently with large error on inventory browser. Customer escalation, please prioritize.",bug,0,13.9,bharath,High
+T00583,"Fix crash when user uploads recurring file on mobile app page. Customer escalation, please prioritize.",bug,6,17.0,chen,Medium
+T00584,"Set up monitoring alerts for checkout after recurring deploy. Blocked by another team, follow up needed.",deployment,5,12.8,divya,Medium
+T00585,Add integration tests covering user-reported flow in search. Related to the reporting incident from last week.,testing,6,6.6,farhan,Low
+T00586,Roll out recurring update to mobile app production environment,deployment,12,3.0,divya,Low
+T00587,Build export to quarterly functionality for reporting reports,feature,1,16.7,chen,Medium
+T00588,Null pointer exception occurring in profile module during user-reported operation,bug,0,3.0,hassan,High
+T00589,Build export to urgent functionality for billing reports. Related to the auth incident from last week.,feature,9,10.0,chen,Medium
+T00590,Set up monitoring alerts for mobile app after recurring deploy. Related to the billing incident from last week.,deployment,9,25.2,gita,Medium
+T00591,Document deployment steps for profile service on large. Please review before the next sprint.,documentation,0,10.7,alice,Medium
+T00592,Create new scheduled widget for the profile homepage. Related to the mobile app incident from last week.,feature,1,22.6,farhan,High
+T00593,Build export to critical functionality for billing reports,feature,2,1.0,hassan,Medium
+T00594,Write unit tests for minor function in inventory module,testing,1,11.2,esha,Medium
+T00595,"Document deployment steps for billing service on user-reported. Blocked by another team, follow up needed.",documentation,2,33.5,chen,Medium
+T00596,"Fix crash when user uploads user-reported file on inventory page. Blocked by another team, follow up needed.",bug,2,26.2,divya,High
+T00597,"Document deployment steps for profile service on quarterly. Blocked by another team, follow up needed.",documentation,1,10.4,chen,Medium
+T00598,Application freezes after clicking quarterly button on reporting. Related to the API gateway incident from last week.,bug,3,16.1,divya,High
+T00599,Roll out recurring update to admin production environment. Please review before the next sprint.,deployment,12,3.2,farhan,Low
+T00600,"Data not saving correctly after urgent update in API gateway form. Customer escalation, please prioritize.",bug,4,6.8,gita,Medium
+T00601,Create new quarterly widget for the search homepage. Related to the inventory incident from last week.,feature,0,26.8,bharath,High
+T00602,"Document deployment steps for reporting service on nightly. Blocked by another team, follow up needed.",testing,2,25.4,hassan,Medium
+T00603,Create new user-reported widget for the profile homepage. Related to the reporting incident from last week.,feature,2,7.6,alice,Medium
+T00604,Add integration tests covering minor flow in auth. Related to the inventory incident from last week.,testing,4,12.4,alice,Medium
+T00605,Document deployment steps for admin service on automated. Please review before the next sprint.,documentation,7,30.5,chen,Medium
+T00606,Increase test coverage for auth edge cases in minor,testing,4,14.3,gita,Medium
+T00607,Write onboarding guide for new API gateway users about quarterly. Please review before the next sprint.,documentation,1,2.6,bharath,Medium
+T00608,"Update API docs for the auth endpoint covering automated usage. Blocked by another team, follow up needed.",documentation,9,2.9,gita,Low
+T00609,"Increase test coverage for checkout edge cases in user-reported. Blocked by another team, follow up needed.",testing,4,28.7,chen,Medium
+T00610,Document deployment steps for admin service on scheduled. Related to the profile incident from last week.,documentation,2,29.4,bharath,Medium
+T00611,Fix crash when user uploads minor file on search page,bug,11,3.7,esha,Medium
+T00612,"Null pointer exception occurring in mobile app module during nightly operation. Blocked by another team, follow up needed.",bug,8,11.2,bharath,Medium
+T00613,"Fix crash when user uploads recurring file on reporting page. Customer escalation, please prioritize.",bug,1,29.7,esha,High
+T00614,Data not saving correctly after urgent update in billing form,bug,0,7.1,bharath,High
+T00615,Data not saving correctly after automated update in reporting form. Please review before the next sprint.,bug,10,5.4,divya,Medium
+T00616,Perform load testing on mobile app service under quarterly traffic. Please review before the next sprint.,testing,4,3.4,alice,Medium
+T00617,Add minor filter option to the auth dashboard. Related to the mobile app incident from last week.,feature,6,6.6,esha,Low
+T00618,Create changelog entry for user-reported release of checkout,documentation,0,24.8,esha,Medium
+T00619,"Set up regression test suite for admin after large change. Blocked by another team, follow up needed.",testing,0,14.0,divya,High
+T00620,Build export to large functionality for checkout reports,feature,0,4.4,alice,High
+T00621,"Fix crash when user uploads nightly file on auth page. Customer escalation, please prioritize.",bug,6,6.1,esha,Medium
+T00622,"Create new user-reported widget for the reporting homepage. Blocked by another team, follow up needed.",feature,3,16.7,gita,Medium
+T00623,Create changelog entry for scheduled release of billing,documentation,3,19.5,hassan,Medium
+T00624,"Data not saving correctly after scheduled update in inventory form. Customer escalation, please prioritize.",bug,7,8.5,gita,Medium
+T00625,Fix crash when user uploads recurring file on mobile app page. Related to the admin incident from last week.,bug,2,11.5,divya,High
+T00626,"Application freezes after clicking scheduled button on auth. Customer escalation, please prioritize.",bug,6,2.8,alice,Medium
+T00627,Null pointer exception occurring in reporting module during automated operation,bug,0,13.8,chen,High
+T00628,"Perform load testing on profile service under nightly traffic. Blocked by another team, follow up needed.",testing,2,5.7,divya,Medium
+T00629,Data not saving correctly after nightly update in admin form,feature,4,36.9,chen,High
+T00630,Write onboarding guide for new reporting users about scheduled. Related to the auth incident from last week.,documentation,0,5.8,farhan,Medium
+T00631,Implement dark mode support for billing screen,feature,8,15.4,divya,Low
+T00632,"Add large filter option to the mobile app dashboard. Blocked by another team, follow up needed.",feature,1,5.6,hassan,Medium
+T00633,Increase test coverage for mobile app edge cases in quarterly,testing,0,2.3,alice,Medium
+T00634,Provision new large servers for API gateway scaling,deployment,2,8.7,alice,High
+T00635,Data not saving correctly after minor update in mobile app form,bug,0,21.0,alice,High
+T00636,Build export to user-reported functionality for search reports. Please review before the next sprint.,feature,4,6.4,alice,Medium
+T00637,Null pointer exception occurring in billing module during user-reported operation. Please review before the next sprint.,bug,4,39.0,esha,High
+T00638,"Create new minor widget for the inventory homepage. Blocked by another team, follow up needed.",feature,1,7.7,bharath,High
+T00639,"Create new large widget for the profile homepage. Blocked by another team, follow up needed.",feature,10,11.4,farhan,Medium
+T00640,Data not saving correctly after large update in reporting form,bug,0,5.6,bharath,High
+T00641,Add user-reported filter option to the API gateway dashboard,feature,4,,bharath,Medium
+T00642,Null pointer exception occurring in auth module during user-reported operation. Please review before the next sprint.,bug,3,13.9,farhan,High
+T00643,Null pointer exception occurring in search module during large operation. Related to the search incident from last week.,bug,1,8.7,farhan,High
+T00644,Login fails intermittently with minor error on search browser. Related to the mobile app incident from last week.,bug,6,10.8,gita,Medium
+T00645,Create new scheduled widget for the profile homepage. Related to the reporting incident from last week.,feature,11,21.1,hassan,Low
+T00646,Add critical filter option to the API gateway dashboard. Related to the mobile app incident from last week.,feature,1,4.2,alice,High
+T00647,Create new urgent widget for the inventory homepage. Related to the admin incident from last week.,feature,1,2.8,bharath,Medium
+T00648,"Write unit tests for automated function in reporting module. Blocked by another team, follow up needed.",testing,9,37.1,esha,Low
+T00649,Implement dark mode support for inventory screen. Related to the admin incident from last week.,feature,0,5.1,chen,Medium
+T00650,Document deployment steps for inventory service on critical. Please review before the next sprint.,deployment,8,9.6,esha,Low
+T00651,"Application freezes after clicking minor button on admin. Blocked by another team, follow up needed.",bug,0,12.5,divya,High
+T00652,"Create changelog entry for user-reported release of profile. Blocked by another team, follow up needed.",documentation,5,2.6,divya,Low
+T00653,Fix crash when user uploads automated file on search page. Related to the API gateway incident from last week.,deployment,7,17.5,hassan,Low
+T00654,"Data not saving correctly after recurring update in billing form. Customer escalation, please prioritize.",bug,0,19.9,chen,High
+T00655,Increase test coverage for auth edge cases in large,testing,2,11.1,farhan,Medium
+T00656,Provision new quarterly servers for profile scaling. Related to the inventory incident from last week.,deployment,5,6.8,farhan,Medium
+T00657,Write unit tests for critical function in checkout module,testing,3,6.7,alice,Medium
+T00658,Create new minor widget for the billing homepage,feature,5,3.9,gita,Low
+T00659,"Application freezes after clicking large button on search. Customer escalation, please prioritize.",bug,2,19.9,farhan,High
+T00660,Null pointer exception occurring in reporting module during user-reported operation. Related to the checkout incident from last week.,bug,6,8.3,bharath,Medium
+T00661,"Perform load testing on billing service under minor traffic. Blocked by another team, follow up needed.",testing,5,15.9,divya,Low
+T00662,Migrate profile database to urgent during maintenance window. Please review before the next sprint.,deployment,2,4.2,alice,Medium
+T00663,"Write unit tests for large function in mobile app module. Customer escalation, please prioritize.",testing,8,7.8,farhan,Low
+T00664,Write unit tests for automated function in API gateway module. Please review before the next sprint.,feature,1,,gita,Medium
+T00665,Null pointer exception occurring in reporting module during critical operation. Please review before the next sprint.,testing,2,5.7,alice,High
+T00666,"Update API docs for the billing endpoint covering automated usage. Blocked by another team, follow up needed.",documentation,5,2.2,divya,Low
+T00667,Write unit tests for large function in API gateway module,testing,9,2.5,bharath,Low
+T00668,"Create new quarterly widget for the search homepage. Customer escalation, please prioritize.",feature,5,13.7,gita,Low
+T00669,"Add code comments explaining quarterly logic in admin module. Blocked by another team, follow up needed.",documentation,10,6.5,alice,Low
+T00670,Null pointer exception occurring in checkout module during quarterly operation. Related to the admin incident from last week.,bug,5,9.6,alice,Medium
+T00671,"Configure CI/CD pipeline for auth service on automated. Customer escalation, please prioritize.",deployment,3,6.2,gita,Medium
+T00672,"Data not saving correctly after urgent update in billing form. Blocked by another team, follow up needed.",bug,0,17.4,gita,High
+T00673,Login fails intermittently with recurring error on inventory browser. Related to the checkout incident from last week.,bug,4,20.8,hassan,High
+T00674,"Add integration tests covering nightly flow in auth. Customer escalation, please prioritize.",testing,6,9.6,hassan,Low
+T00675,"Create new large widget for the profile homepage. Blocked by another team, follow up needed.",feature,1,11.3,alice,High
+T00676,Set up monitoring alerts for checkout after user-reported deploy,deployment,7,11.2,esha,Medium
+T00677,Roll out critical update to admin production environment. Related to the reporting incident from last week.,deployment,3,6.2,gita,Medium
+T00678,Roll out user-reported update to reporting production environment,deployment,3,12.8,alice,Medium
+T00679,"Fix crash when user uploads automated file on inventory page. Blocked by another team, follow up needed.",feature,9,39.0,chen,High
+T00680,"Add integration tests covering user-reported flow in mobile app. Customer escalation, please prioritize.",deployment,10,5.1,hassan,Medium
+T00681,Build export to urgent functionality for inventory reports,feature,5,9.0,esha,Medium
+T00682,"Increase test coverage for billing edge cases in automated. Blocked by another team, follow up needed.",testing,0,7.0,farhan,High
+T00683,Create new recurring widget for the profile homepage,feature,2,5.0,alice,High
+T00684,Write onboarding guide for new search users about large. Please review before the next sprint.,documentation,3,10.9,esha,Low
+T00685,Add user-reported filter option to the billing dashboard. Related to the API gateway incident from last week.,feature,11,3.0,alice,Low
+T00686,"Add notification system for large events in billing. Blocked by another team, follow up needed.",feature,1,8.7,esha,High
+T00687,Build export to quarterly functionality for profile reports,feature,5,10.6,hassan,Medium
+T00688,"Fix crash when user uploads user-reported file on auth page. Customer escalation, please prioritize.",bug,1,5.1,hassan,High
+T00689,Application freezes after clicking urgent button on search. Related to the reporting incident from last week.,bug,12,10.2,gita,Low
+T00690,Build export to user-reported functionality for inventory reports,feature,5,12.5,chen,Medium
+T00691,"Implement dark mode support for profile screen. Customer escalation, please prioritize.",feature,0,19.8,divya,High
+T00692,Create new recurring widget for the billing homepage,feature,0,10.4,chen,High
+T00693,Document deployment steps for mobile app service on automated. Please review before the next sprint.,documentation,0,2.9,chen,Medium
+T00694,Null pointer exception occurring in checkout module during quarterly operation. Related to the checkout incident from last week.,bug,1,6.1,esha,Medium
+T00695,Add code comments explaining urgent logic in auth module. Please review before the next sprint.,documentation,5,16.2,esha,Medium
+T00696,Build export to automated functionality for admin reports. Please review before the next sprint.,feature,0,1.2,chen,Medium
+T00697,"Add notification system for critical events in billing. Blocked by another team, follow up needed.",feature,4,2.8,divya,Medium
+T00698,Add critical filter option to the API gateway dashboard. Related to the admin incident from last week.,testing,6,6.0,chen,Low
+T00699,"Build export to user-reported functionality for billing reports. Blocked by another team, follow up needed.",feature,7,28.1,hassan,Low
+T00700,"Add code comments explaining urgent logic in search module. Customer escalation, please prioritize.",documentation,11,34.1,esha,Low
+T00701,"Update API docs for the inventory endpoint covering minor usage. Customer escalation, please prioritize.",documentation,9,6.9,alice,Low
+T00702,Increase test coverage for reporting edge cases in scheduled. Please review before the next sprint.,testing,8,1.0,bharath,Low
+T00703,"Create new critical widget for the checkout homepage. Blocked by another team, follow up needed.",feature,6,11.8,bharath,Low
+T00704,Set up monitoring alerts for admin after quarterly deploy,deployment,5,6.4,esha,Medium
+T00705,"Migrate profile database to nightly during maintenance window. Blocked by another team, follow up needed.",deployment,17,18.5,alice,Low
+T00706,"Implement dark mode support for billing screen. Blocked by another team, follow up needed.",feature,3,1.0,alice,Medium
+T00707,Application freezes after clicking automated button on mobile app. Related to the auth incident from last week.,bug,15,4.3,bharath,Medium
+T00708,"Application freezes after clicking user-reported button on inventory. Customer escalation, please prioritize.",bug,9,19.6,bharath,Medium
+T00709,Fix crash when user uploads recurring file on auth page,bug,2,2.1,divya,Medium
+T00710,Roll out nightly update to profile production environment. Please review before the next sprint.,deployment,2,10.3,bharath,Medium
+T00711,Data not saving correctly after quarterly update in billing form,bug,11,16.3,bharath,Low
+T00712,"Add notification system for minor events in billing. Customer escalation, please prioritize.",feature,6,22.3,esha,Medium
+T00713,"Increase test coverage for billing edge cases in large. Blocked by another team, follow up needed.",testing,14,6.8,bharath,Low
+T00714,Write onboarding guide for new search users about recurring. Please review before the next sprint.,documentation,9,13.8,alice,Low
+T00715,"Add scheduled filter option to the inventory dashboard. Customer escalation, please prioritize.",feature,5,5.9,alice,Medium
+T00716,Add code comments explaining user-reported logic in mobile app module. Related to the checkout incident from last week.,documentation,0,6.4,farhan,Medium
+T00717,Write onboarding guide for new inventory users about quarterly. Related to the mobile app incident from last week.,documentation,18,9.0,farhan,Low
+T00718,"Add notification system for large events in mobile app. Blocked by another team, follow up needed.",feature,7,23.9,divya,Low
+T00719,Create changelog entry for user-reported release of reporting,documentation,1,21.6,esha,Medium
+T00720,"Provision new nightly servers for checkout scaling. Blocked by another team, follow up needed.",deployment,13,,hassan,Low
+T00721,Build export to nightly functionality for auth reports,feature,3,5.1,hassan,Medium
+T00722,"Fix crash when user uploads critical file on auth page. Blocked by another team, follow up needed.",bug,5,29.9,divya,Medium
+T00723,"Application freezes after clicking quarterly button on admin. Blocked by another team, follow up needed.",bug,0,27.4,gita,High
+T00724,Add notification system for scheduled events in API gateway,feature,0,5.0,chen,High
+T00725,Provision new recurring servers for admin scaling,deployment,0,16.5,hassan,High
+T00726,Configure CI/CD pipeline for checkout service on automated,deployment,4,30.9,hassan,Medium
+T00727,Null pointer exception occurring in auth module during nightly operation. Related to the mobile app incident from last week.,bug,2,24.1,farhan,High
+T00728,Write unit tests for recurring function in inventory module. Related to the profile incident from last week.,testing,0,11.2,esha,Medium
+T00729,Document deployment steps for reporting service on user-reported,testing,3,7.0,chen,Medium
+T00730,Document deployment steps for checkout service on automated,documentation,0,9.9,farhan,Medium
+T00731,"Document deployment steps for billing service on critical. Blocked by another team, follow up needed.",documentation,5,5.1,hassan,Low
+T00732,"Add code comments explaining urgent logic in search module. Blocked by another team, follow up needed.",documentation,1,2.4,divya,Medium
+T00733,Document deployment steps for billing service on recurring. Related to the reporting incident from last week.,documentation,6,21.6,chen,Low
+T00734,"Update API docs for the checkout endpoint covering minor usage. Blocked by another team, follow up needed.",documentation,10,8.8,farhan,Low
+T00735,Add critical filter option to the API gateway dashboard,feature,0,24.0,chen,High
+T00736,Data not saving correctly after minor update in mobile app form,bug,5,16.2,esha,Medium
+T00737,"Create new nightly widget for the mobile app homepage. Customer escalation, please prioritize.",feature,0,20.2,bharath,High
+T00738,"Add recurring filter option to the checkout dashboard. Blocked by another team, follow up needed.",feature,5,14.3,farhan,Low
+T00739,"Create changelog entry for scheduled release of auth. Customer escalation, please prioritize.",documentation,1,11.9,hassan,Medium
+T00740,Increase test coverage for inventory edge cases in quarterly. Please review before the next sprint.,testing,10,17.5,chen,Low
+T00741,"Data not saving correctly after nightly update in mobile app form. Blocked by another team, follow up needed.",bug,2,17.1,alice,High
+T00742,Create new minor widget for the inventory homepage. Please review before the next sprint.,feature,6,28.1,divya,Low
+T00743,"Data not saving correctly after nightly update in billing form. Blocked by another team, follow up needed.",bug,7,3.5,hassan,Medium
+T00744,Create new scheduled widget for the admin homepage. Related to the inventory incident from last week.,feature,11,6.4,alice,Low
+T00745,"Application freezes after clicking scheduled button on checkout. Blocked by another team, follow up needed.",bug,0,23.8,gita,High
+T00746,Migrate reporting database to urgent during maintenance window,deployment,5,15.0,chen,Medium
+T00747,Create new large widget for the mobile app homepage. Please review before the next sprint.,feature,0,13.6,farhan,Medium
+T00748,Login fails intermittently with automated error on auth browser,bug,7,5.9,alice,Medium
+T00749,"Write onboarding guide for new auth users about recurring. Customer escalation, please prioritize.",documentation,1,12.1,alice,Medium
+T00750,"Configure CI/CD pipeline for admin service on quarterly. Blocked by another team, follow up needed.",deployment,1,21.5,chen,High
+T00751,Add notification system for scheduled events in reporting. Related to the inventory incident from last week.,feature,4,7.1,esha,Low
+T00752,Update API docs for the auth endpoint covering minor usage,documentation,1,5.1,esha,Medium
+T00753,Write onboarding guide for new mobile app users about user-reported,bug,0,10.9,gita,Medium
+T00754,"Null pointer exception occurring in auth module during automated operation. Blocked by another team, follow up needed.",bug,0,24.6,chen,High
+T00755,Fix crash when user uploads large file on auth page,bug,1,8.2,farhan,High
+T00756,Set up monitoring alerts for search after urgent deploy. Please review before the next sprint.,deployment,3,17.8,alice,Medium
+T00757,Add integration tests covering quarterly flow in mobile app,testing,4,5.3,bharath,Medium
+T00758,Fix crash when user uploads recurring file on profile page. Please review before the next sprint.,bug,5,2.6,esha,Medium
+T00759,"Login fails intermittently with automated error on API gateway browser. Blocked by another team, follow up needed.",bug,0,17.5,gita,High
+T00760,"Write onboarding guide for new inventory users about automated. Customer escalation, please prioritize.",documentation,5,14.5,chen,Low
+T00761,Write onboarding guide for new search users about quarterly,documentation,0,21.3,alice,Medium
+T00762,Set up regression test suite for checkout after critical change. Please review before the next sprint.,testing,4,7.8,divya,Low
+T00763,Set up monitoring alerts for API gateway after automated deploy,deployment,6,11.5,farhan,Medium
+T00764,Build export to user-reported functionality for auth reports. Related to the profile incident from last week.,feature,0,13.8,hassan,High
+T00765,Application freezes after clicking urgent button on auth. Related to the mobile app incident from last week.,bug,2,32.8,gita,High
+T00766,"Add code comments explaining recurring logic in API gateway module. Customer escalation, please prioritize.",bug,5,10.8,alice,Low
+T00767,Configure CI/CD pipeline for search service on critical. Related to the admin incident from last week.,deployment,23,4.5,alice,Low
+T00768,Configure CI/CD pipeline for search service on recurring. Related to the API gateway incident from last week.,deployment,2,16.8,hassan,High
+T00769,Document deployment steps for billing service on critical. Related to the search incident from last week.,documentation,2,17.0,farhan,Medium
+T00770,Migrate admin database to quarterly during maintenance window,deployment,11,9.3,hassan,Medium
+T00771,Null pointer exception occurring in inventory module during automated operation. Related to the reporting incident from last week.,bug,1,12.5,bharath,Medium
+T00772,Add code comments explaining nightly logic in search module. Please review before the next sprint.,documentation,6,17.1,divya,Low
+T00773,Create new critical widget for the search homepage,feature,4,3.0,divya,Medium
+T00774,Login fails intermittently with large error on API gateway browser. Please review before the next sprint.,bug,0,15.2,esha,High
+T00775,Write onboarding guide for new API gateway users about quarterly,documentation,3,25.6,chen,Low
+T00776,Application freezes after clicking quarterly button on inventory. Related to the auth incident from last week.,bug,9,13.4,bharath,Medium
+T00777,Add notification system for nightly events in search,feature,7,12.5,chen,Low
+T00778,Null pointer exception occurring in inventory module during user-reported operation,bug,0,11.1,farhan,High
+T00779,Write onboarding guide for new auth users about recurring. Related to the reporting incident from last week.,documentation,2,23.3,bharath,Medium
+T00780,"Update API docs for the search endpoint covering urgent usage. Customer escalation, please prioritize.",documentation,0,21.9,divya,Medium
+T00781,"Create changelog entry for minor release of admin. Customer escalation, please prioritize.",documentation,3,3.1,chen,Medium
+T00782,Build export to minor functionality for mobile app reports. Related to the billing incident from last week.,feature,1,13.3,chen,Medium
+T00783,Configure CI/CD pipeline for inventory service on minor,deployment,3,19.6,farhan,Medium
+T00784,Update API docs for the auth endpoint covering recurring usage. Related to the checkout incident from last week.,documentation,0,9.4,chen,Medium
+T00785,"Add code comments explaining large logic in inventory module. Blocked by another team, follow up needed.",documentation,3,4.2,esha,Medium
+T00786,Document deployment steps for search service on nightly,documentation,1,16.3,esha,Low
+T00787,"Data not saving correctly after recurring update in reporting form. Blocked by another team, follow up needed.",bug,3,32.8,divya,High
+T00788,"Login fails intermittently with nightly error on mobile app browser. Customer escalation, please prioritize.",bug,3,1.0,bharath,Medium
+T00789,Add scheduled filter option to the search dashboard. Please review before the next sprint.,feature,3,7.5,esha,Medium
+T00790,"Build export to urgent functionality for mobile app reports. Blocked by another team, follow up needed.",feature,1,9.7,alice,High
+T00791,Write unit tests for critical function in reporting module,testing,14,11.6,alice,Low
+T00792,Perform load testing on billing service under nightly traffic,testing,8,7.2,farhan,Low
+T00793,Configure CI/CD pipeline for profile service on recurring,deployment,11,5.9,farhan,Low
+T00794,"Provision new user-reported servers for admin scaling. Blocked by another team, follow up needed.",deployment,0,5.7,farhan,High
+T00795,"Configure CI/CD pipeline for checkout service on minor. Blocked by another team, follow up needed.",deployment,4,10.5,alice,Medium
+T00796,Provision new scheduled servers for billing scaling,deployment,2,20.8,alice,High
+T00797,Create changelog entry for user-reported release of search. Related to the auth incident from last week.,documentation,3,3.8,chen,Medium
+T00798,"Null pointer exception occurring in mobile app module during nightly operation. Customer escalation, please prioritize.",bug,2,9.6,alice,High
+T00799,"Create new minor widget for the search homepage. Blocked by another team, follow up needed.",feature,10,12.4,esha,Low
+T00800,Set up regression test suite for search after large change,testing,24,19.7,bharath,Medium
+T00801,"Fix crash when user uploads urgent file on mobile app page. Blocked by another team, follow up needed.",bug,0,14.2,esha,High
+T00802,Add notification system for recurring events in auth. Related to the search incident from last week.,feature,1,7.3,divya,Medium
+T00803,Write unit tests for minor function in billing module. Please review before the next sprint.,testing,10,8.7,esha,Low
+T00804,Perform load testing on billing service under urgent traffic. Please review before the next sprint.,testing,3,13.2,bharath,Medium
+T00805,Configure CI/CD pipeline for mobile app service on scheduled. Please review before the next sprint.,deployment,10,9.9,esha,Medium
+T00806,Add notification system for automated events in search,feature,27,1.5,alice,Low
+T00807,Application freezes after clicking scheduled button on API gateway,bug,11,14.3,esha,Medium
+T00808,Build export to automated functionality for admin reports,feature,2,6.0,alice,Low
+T00809,"Login fails intermittently with automated error on search browser. Customer escalation, please prioritize.",bug,16,29.4,bharath,Medium
+T00810,"Null pointer exception occurring in auth module during recurring operation. Customer escalation, please prioritize.",bug,0,9.3,bharath,High
+T00811,Implement dark mode support for reporting screen. Related to the auth incident from last week.,feature,6,3.5,esha,Low
+T00812,"Configure CI/CD pipeline for checkout service on scheduled. Blocked by another team, follow up needed.",bug,1,9.4,divya,High
+T00813,Application freezes after clicking automated button on inventory. Please review before the next sprint.,bug,16,5.0,divya,Medium
+T00814,"Update API docs for the inventory endpoint covering large usage. Blocked by another team, follow up needed.",documentation,11,13.4,esha,Low
+T00815,Null pointer exception occurring in auth module during urgent operation. Related to the auth incident from last week.,bug,9,33.7,alice,Medium
+T00816,Write onboarding guide for new auth users about large. Please review before the next sprint.,documentation,1,2.8,hassan,Low
+T00817,Add notification system for nightly events in mobile app,feature,2,29.7,farhan,High
+T00818,"Set up regression test suite for profile after user-reported change. Blocked by another team, follow up needed.",testing,3,11.5,hassan,Medium
+T00819,"Application freezes after clicking scheduled button on API gateway. Customer escalation, please prioritize.",bug,2,6.4,farhan,High
+T00820,"Add minor filter option to the API gateway dashboard. Customer escalation, please prioritize.",feature,0,18.6,chen,High
+T00821,Create new automated widget for the search homepage. Please review before the next sprint.,feature,7,21.1,esha,Low
+T00822,Create changelog entry for automated release of auth,documentation,0,12.1,bharath,Medium
+T00823,Implement dark mode support for checkout screen. Please review before the next sprint.,feature,3,5.1,bharath,Medium
+T00824,Set up regression test suite for search after scheduled change. Please review before the next sprint.,testing,0,20.3,farhan,High
+T00825,"Add code comments explaining minor logic in search module. Blocked by another team, follow up needed.",documentation,4,5.8,hassan,Low
+T00826,Add integration tests covering scheduled flow in admin. Please review before the next sprint.,testing,2,28.2,gita,Medium
+T00827,Create new urgent widget for the admin homepage,feature,7,2.8,esha,Low
+T00828,Null pointer exception occurring in auth module during urgent operation. Related to the checkout incident from last week.,feature,24,6.5,esha,Medium
+T00829,Provision new critical servers for mobile app scaling,deployment,3,12.5,farhan,Medium
+T00830,"Increase test coverage for checkout edge cases in quarterly. Customer escalation, please prioritize.",testing,0,8.0,esha,Medium
+T00831,Configure CI/CD pipeline for billing service on large,deployment,3,9.2,hassan,Medium
+T00832,Set up regression test suite for profile after quarterly change. Please review before the next sprint.,testing,0,10.3,bharath,High
+T00833,"Set up regression test suite for auth after recurring change. Customer escalation, please prioritize.",testing,0,8.3,hassan,Medium
+T00834,Fix crash when user uploads user-reported file on billing page,bug,4,6.3,hassan,Medium
+T00835,Add integration tests covering quarterly flow in inventory. Please review before the next sprint.,testing,2,8.6,farhan,Medium
+T00836,Add code comments explaining nightly logic in admin module,documentation,5,24.0,alice,Low
+T00837,Provision new quarterly servers for auth scaling,deployment,8,10.3,farhan,Medium
+T00838,Data not saving correctly after minor update in checkout form. Related to the inventory incident from last week.,bug,9,20.5,gita,Medium
+T00839,Create changelog entry for user-reported release of mobile app,documentation,8,2.8,gita,Low
+T00840,Update API docs for the profile endpoint covering scheduled usage. Please review before the next sprint.,documentation,5,24.7,esha,Medium
+T00841,Write onboarding guide for new checkout users about critical,documentation,4,,gita,Low
+T00842,Data not saving correctly after urgent update in billing form,bug,4,17.9,farhan,Medium
+T00843,Add notification system for user-reported events in search. Please review before the next sprint.,feature,13,35.6,farhan,Low
+T00844,Fix crash when user uploads critical file on reporting page. Related to the auth incident from last week.,bug,7,10.7,chen,Low
+T00845,"Create changelog entry for quarterly release of checkout. Blocked by another team, follow up needed.",documentation,1,7.3,bharath,Medium
+T00846,Perform load testing on billing service under automated traffic,testing,1,6.7,farhan,Medium
+T00847,Roll out quarterly update to checkout production environment,deployment,1,15.3,farhan,High
+T00848,"Application freezes after clicking quarterly button on search. Blocked by another team, follow up needed.",bug,3,10.3,alice,Medium
+T00849,"Data not saving correctly after urgent update in inventory form. Customer escalation, please prioritize.",bug,6,16.3,alice,Medium
+T00850,Perform load testing on auth service under recurring traffic. Please review before the next sprint.,testing,6,20.0,chen,Medium
+T00851,Implement dark mode support for inventory screen. Related to the admin incident from last week.,feature,10,9.0,hassan,Low
+T00852,Add notification system for critical events in reporting. Related to the reporting incident from last week.,feature,0,5.2,esha,Medium
+T00853,Null pointer exception occurring in auth module during quarterly operation. Please review before the next sprint.,bug,4,36.5,alice,High
+T00854,"Increase test coverage for admin edge cases in automated. Blocked by another team, follow up needed.",testing,1,11.1,farhan,High
+T00855,"Add integration tests covering recurring flow in admin. Blocked by another team, follow up needed.",testing,1,10.1,chen,Medium
+T00856,Create new recurring widget for the checkout homepage. Please review before the next sprint.,feature,3,9.9,chen,Medium
+T00857,Fix crash when user uploads large file on search page. Related to the mobile app incident from last week.,bug,0,8.6,chen,High
+T00858,Set up monitoring alerts for billing after nightly deploy,deployment,1,16.3,chen,High
+T00859,Create changelog entry for automated release of auth,documentation,0,1.3,alice,Low
+T00860,Build export to urgent functionality for mobile app reports,feature,20,9.1,bharath,Medium
+T00861,"Increase test coverage for profile edge cases in nightly. Customer escalation, please prioritize.",testing,2,10.3,farhan,Medium
+T00862,Document deployment steps for inventory service on critical,documentation,4,23.2,chen,Medium
+T00863,"Perform load testing on auth service under automated traffic. Blocked by another team, follow up needed.",testing,1,8.6,chen,High
+T00864,"Add user-reported filter option to the API gateway dashboard. Customer escalation, please prioritize.",feature,7,6.9,hassan,Low
+T00865,Write onboarding guide for new auth users about scheduled,documentation,0,7.8,esha,Medium
+T00866,Add notification system for quarterly events in auth. Related to the profile incident from last week.,feature,2,17.9,bharath,Medium
+T00867,Increase test coverage for search edge cases in urgent. Related to the checkout incident from last week.,testing,1,36.4,esha,High
+T00868,Configure CI/CD pipeline for inventory service on minor,deployment,3,13.8,alice,Medium
+T00869,"Add code comments explaining nightly logic in API gateway module. Blocked by another team, follow up needed.",documentation,3,31.1,gita,Medium
+T00870,"Document deployment steps for billing service on minor. Blocked by another team, follow up needed.",documentation,3,10.1,hassan,Medium
+T00871,Add quarterly filter option to the profile dashboard,feature,2,4.5,esha,Medium
+T00872,"Increase test coverage for checkout edge cases in minor. Customer escalation, please prioritize.",testing,3,9.8,hassan,Medium
+T00873,Fix crash when user uploads user-reported file on search page,bug,6,12.8,chen,Medium
+T00874,"Add user-reported filter option to the admin dashboard. Customer escalation, please prioritize.",feature,1,19.2,farhan,Medium
+T00875,Null pointer exception occurring in reporting module during nightly operation. Please review before the next sprint.,bug,0,14.7,hassan,High
+T00876,Application freezes after clicking user-reported button on inventory,bug,1,10.3,farhan,Medium
+T00877,Add code comments explaining quarterly logic in admin module. Related to the admin incident from last week.,documentation,10,9.2,farhan,Low
+T00878,Fix crash when user uploads critical file on mobile app page. Please review before the next sprint.,bug,3,8.0,esha,Medium
+T00879,Write unit tests for nightly function in inventory module. Please review before the next sprint.,testing,3,7.0,chen,Medium
+T00880,Null pointer exception occurring in inventory module during large operation,bug,1,2.6,alice,High
+T00881,Fix crash when user uploads automated file on reporting page,bug,11,23.1,farhan,Medium
+T00882,Roll out large update to mobile app production environment,deployment,30,19.6,esha,Medium
+T00883,Fix crash when user uploads user-reported file on inventory page. Please review before the next sprint.,bug,6,4.9,farhan,Medium
+T00884,Provision new user-reported servers for API gateway scaling. Related to the search incident from last week.,deployment,0,12.3,hassan,High
+T00885,Migrate mobile app database to automated during maintenance window,deployment,1,5.9,bharath,High
+T00886,Set up monitoring alerts for search after minor deploy,deployment,9,21.7,alice,Low
+T00887,Provision new quarterly servers for auth scaling. Please review before the next sprint.,deployment,2,21.2,alice,High
+T00888,Configure CI/CD pipeline for profile service on quarterly,deployment,2,6.0,farhan,Medium
+T00889,Update API docs for the inventory endpoint covering quarterly usage. Related to the reporting incident from last week.,documentation,3,5.0,farhan,Low
+T00890,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",feature,0,18.8,divya,Medium
+T00891,Write unit tests for scheduled function in profile module. Related to the reporting incident from last week.,testing,8,4.6,divya,Low
+T00892,Configure CI/CD pipeline for reporting service on recurring. Related to the profile incident from last week.,deployment,2,8.0,alice,High
+T00893,"Document deployment steps for profile service on critical. Blocked by another team, follow up needed.",documentation,0,2.5,divya,Low
+T00894,Application freezes after clicking recurring button on checkout,bug,13,16.8,bharath,Low
+T00895,"Add code comments explaining nightly logic in billing module. Blocked by another team, follow up needed.",documentation,5,22.2,gita,Low
+T00896,Null pointer exception occurring in inventory module during large operation,bug,6,6.7,farhan,Medium
+T00897,Add urgent filter option to the checkout dashboard. Related to the inventory incident from last week.,feature,0,16.6,bharath,High
+T00898,"Null pointer exception occurring in API gateway module during urgent operation. Customer escalation, please prioritize.",bug,3,6.1,farhan,Medium
+T00899,Increase test coverage for API gateway edge cases in minor. Related to the admin incident from last week.,testing,6,7.4,divya,Low
+T00900,"Add integration tests covering user-reported flow in admin. Blocked by another team, follow up needed.",testing,1,9.6,alice,Medium
+T00901,"Update API docs for the admin endpoint covering minor usage. Customer escalation, please prioritize.",documentation,5,25.7,esha,Low
+T00902,"Application freezes after clicking nightly button on checkout. Customer escalation, please prioritize.",bug,1,5.8,bharath,High
+T00903,Write unit tests for quarterly function in search module,testing,1,4.3,farhan,High
+T00904,"Create new quarterly widget for the API gateway homepage. Customer escalation, please prioritize.",testing,1,8.5,divya,High
+T00905,Create changelog entry for critical release of auth,documentation,5,4.7,bharath,Low
+T00906,Build export to quarterly functionality for profile reports. Related to the reporting incident from last week.,feature,6,1.6,farhan,Low
+T00907,Application freezes after clicking large button on API gateway. Please review before the next sprint.,bug,2,23.8,bharath,High
+T00908,Build export to large functionality for admin reports. Please review before the next sprint.,feature,1,15.9,chen,Medium
+T00909,Roll out nightly update to checkout production environment,documentation,9,18.5,hassan,Medium
+T00910,Login fails intermittently with user-reported error on API gateway browser. Related to the search incident from last week.,bug,1,3.4,divya,High
+T00911,Login fails intermittently with critical error on search browser,bug,2,14.8,chen,Medium
+T00912,"Perform load testing on reporting service under user-reported traffic. Blocked by another team, follow up needed.",testing,5,18.6,bharath,Low
+T00913,Fix crash when user uploads large file on mobile app page. Please review before the next sprint.,bug,12,16.5,divya,Medium
+T00914,"Perform load testing on reporting service under minor traffic. Customer escalation, please prioritize.",testing,7,18.2,alice,Low
+T00915,Add notification system for urgent events in profile. Please review before the next sprint.,bug,2,4.2,esha,Medium
+T00916,Fix crash when user uploads minor file on checkout page,bug,3,24.4,divya,High
+T00917,Configure CI/CD pipeline for profile service on nightly. Related to the mobile app incident from last week.,bug,4,15.6,gita,Medium
+T00918,Null pointer exception occurring in API gateway module during nightly operation,bug,5,2.3,chen,Low
+T00919,Perform load testing on auth service under scheduled traffic,documentation,7,10.1,divya,Low
+T00920,Configure CI/CD pipeline for API gateway service on urgent,deployment,0,3.1,alice,Medium
+T00921,Roll out minor update to API gateway production environment,deployment,5,22.4,esha,Medium
+T00922,Add scheduled filter option to the API gateway dashboard,feature,6,20.1,gita,Low
+T00923,Create new urgent widget for the mobile app homepage. Please review before the next sprint.,feature,5,9.7,gita,Low
+T00924,"Null pointer exception occurring in mobile app module during quarterly operation. Blocked by another team, follow up needed.",bug,7,4.8,farhan,Medium
+T00925,Set up monitoring alerts for profile after automated deploy,deployment,1,15.7,esha,High
+T00926,Add code comments explaining user-reported logic in profile module. Please review before the next sprint.,deployment,2,8.5,alice,Medium
+T00927,"Update API docs for the admin endpoint covering scheduled usage. Customer escalation, please prioritize.",documentation,0,17.0,esha,Medium
+T00928,"Create changelog entry for user-reported release of API gateway. Customer escalation, please prioritize.",documentation,4,24.6,divya,Medium
+T00929,Null pointer exception occurring in reporting module during quarterly operation. Related to the mobile app incident from last week.,bug,5,13.1,esha,Medium
+T00930,Perform load testing on profile service under nightly traffic,testing,0,9.5,farhan,High
+T00931,"Add notification system for automated events in admin. Blocked by another team, follow up needed.",feature,6,15.2,bharath,Medium
+T00932,"Implement dark mode support for inventory screen. Blocked by another team, follow up needed.",feature,6,12.5,chen,Low
+T00933,"Write unit tests for urgent function in reporting module. Blocked by another team, follow up needed.",testing,3,2.6,divya,Medium
+T00934,"Set up monitoring alerts for mobile app after quarterly deploy. Customer escalation, please prioritize.",deployment,3,8.6,hassan,Medium
+T00935,"Create new nightly widget for the reporting homepage. Blocked by another team, follow up needed.",feature,0,6.5,alice,High
+T00936,"Add notification system for user-reported events in inventory. Blocked by another team, follow up needed.",feature,13,10.3,farhan,Low
+T00937,"Implement dark mode support for admin screen. Blocked by another team, follow up needed.",bug,0,15.3,hassan,Medium
+T00938,"Roll out large update to API gateway production environment. Blocked by another team, follow up needed.",deployment,11,14.6,esha,Low
+T00939,Null pointer exception occurring in admin module during nightly operation,bug,0,8.7,esha,High
+T00940,"Null pointer exception occurring in checkout module during scheduled operation. Customer escalation, please prioritize.",bug,3,6.0,chen,High
+T00941,"Add code comments explaining minor logic in checkout module. Customer escalation, please prioritize.",documentation,13,14.5,farhan,Low
+T00942,Implement dark mode support for auth screen. Please review before the next sprint.,feature,4,34.4,farhan,Medium
+T00943,"Fix crash when user uploads recurring file on profile page. Customer escalation, please prioritize.",bug,5,3.8,chen,Medium
+T00944,Implement dark mode support for billing screen. Please review before the next sprint.,feature,0,10.6,alice,High
+T00945,"Add notification system for quarterly events in mobile app. Customer escalation, please prioritize.",feature,5,41.5,gita,Low
+T00946,"Fix crash when user uploads recurring file on inventory page. Customer escalation, please prioritize.",bug,7,12.7,esha,Medium
+T00947,Write unit tests for quarterly function in checkout module. Please review before the next sprint.,testing,3,12.8,hassan,Medium
+T00948,"Data not saving correctly after minor update in checkout form. Customer escalation, please prioritize.",bug,9,18.6,farhan,Medium
+T00949,"Add notification system for urgent events in inventory. Customer escalation, please prioritize.",feature,0,24.6,chen,High
+T00950,Configure CI/CD pipeline for billing service on minor. Related to the admin incident from last week.,deployment,3,3.5,farhan,Medium
+T00951,"Roll out quarterly update to API gateway production environment. Customer escalation, please prioritize.",deployment,2,1.0,alice,Medium
+T00952,"Add code comments explaining critical logic in auth module. Blocked by another team, follow up needed.",documentation,0,2.5,hassan,Medium
+T00953,Add notification system for urgent events in search,feature,5,17.8,hassan,Low
+T00954,"Create new minor widget for the mobile app homepage. Customer escalation, please prioritize.",feature,6,17.8,gita,Low
+T00955,Create changelog entry for quarterly release of inventory,documentation,1,4.6,chen,Medium
+T00956,Provision new recurring servers for mobile app scaling. Please review before the next sprint.,deployment,1,10.7,chen,Medium
+T00957,Add notification system for critical events in checkout. Please review before the next sprint.,feature,1,2.4,divya,Medium
+T00958,Add minor filter option to the API gateway dashboard,feature,0,14.6,bharath,Medium
+T00959,"Application freezes after clicking quarterly button on billing. Blocked by another team, follow up needed.",bug,3,13.3,divya,High
+T00960,Implement dark mode support for auth screen,feature,6,6.1,alice,Low
+T00961,Add notification system for automated events in API gateway. Please review before the next sprint.,testing,8,4.6,farhan,Low
+T00962,Data not saving correctly after scheduled update in checkout form,bug,19,7.6,gita,Medium
+T00963,Increase test coverage for API gateway edge cases in scheduled. Related to the mobile app incident from last week.,testing,11,12.3,divya,Low
+T00964,"Configure CI/CD pipeline for admin service on urgent. Customer escalation, please prioritize.",deployment,3,16.8,farhan,Medium
+T00965,"Fix crash when user uploads scheduled file on API gateway page. Blocked by another team, follow up needed.",bug,0,6.1,bharath,High
+T00966,Write onboarding guide for new mobile app users about critical. Related to the inventory incident from last week.,documentation,7,5.4,alice,Low
+T00967,Write unit tests for recurring function in admin module,testing,13,1.6,gita,Medium
+T00968,Write unit tests for user-reported function in auth module,testing,7,5.0,farhan,Low
+T00969,Application freezes after clicking nightly button on billing. Please review before the next sprint.,bug,2,2.9,esha,Medium
+T00970,Configure CI/CD pipeline for auth service on critical,deployment,0,17.0,chen,High
+T00971,Fix crash when user uploads urgent file on auth page,bug,0,15.9,gita,High
+T00972,Add code comments explaining minor logic in checkout module. Related to the auth incident from last week.,documentation,3,,alice,Medium
+T00973,"Document deployment steps for checkout service on large. Customer escalation, please prioritize.",documentation,1,30.3,gita,High
+T00974,"Configure CI/CD pipeline for profile service on minor. Blocked by another team, follow up needed.",deployment,4,3.8,farhan,Medium
+T00975,Add notification system for automated events in search. Please review before the next sprint.,feature,2,16.0,divya,Medium
+T00976,Fix crash when user uploads recurring file on inventory page,bug,6,3.3,esha,Low
+T00977,Add integration tests covering nightly flow in admin,deployment,6,28.5,alice,Low
+T00978,Provision new quarterly servers for mobile app scaling. Related to the API gateway incident from last week.,deployment,3,5.5,alice,Medium
+T00979,Create new user-reported widget for the admin homepage,feature,5,35.0,alice,Medium
+T00980,Increase test coverage for billing edge cases in automated,testing,0,1.0,chen,Medium
+T00981,Create new large widget for the admin homepage. Related to the admin incident from last week.,feature,13,2.4,divya,Low
+T00982,Document deployment steps for checkout service on automated,documentation,3,24.1,farhan,Medium
+T00983,Add notification system for user-reported events in admin,feature,3,32.1,gita,Medium
+T00984,Data not saving correctly after user-reported update in reporting form. Please review before the next sprint.,bug,1,21.2,divya,High
+T00985,"Add code comments explaining urgent logic in checkout module. Customer escalation, please prioritize.",documentation,2,16.4,divya,Medium
+T00986,Migrate search database to scheduled during maintenance window. Please review before the next sprint.,deployment,0,4.5,chen,High
+T00987,"Fix crash when user uploads large file on API gateway page. Customer escalation, please prioritize.",bug,10,4.9,divya,Medium
+T00988,"Application freezes after clicking quarterly button on profile. Blocked by another team, follow up needed.",testing,0,7.0,divya,High
+T00989,"Data not saving correctly after user-reported update in mobile app form. Blocked by another team, follow up needed.",bug,3,2.1,bharath,Medium
+T00990,Login fails intermittently with urgent error on admin browser,bug,2,19.0,gita,High
+T00991,"Configure CI/CD pipeline for billing service on recurring. Blocked by another team, follow up needed.",deployment,1,7.4,chen,High
+T00992,"Update API docs for the inventory endpoint covering scheduled usage. Blocked by another team, follow up needed.",documentation,5,10.8,alice,Low
+T00993,Roll out scheduled update to reporting production environment,deployment,11,11.5,divya,Low
+T00994,Migrate checkout database to minor during maintenance window. Please review before the next sprint.,deployment,2,17.9,gita,Medium
+T00995,Add notification system for recurring events in admin,feature,4,1.9,divya,Low
+T00996,"Build export to user-reported functionality for profile reports. Customer escalation, please prioritize.",feature,2,1.8,farhan,Medium
+T00997,"Set up monitoring alerts for checkout after user-reported deploy. Customer escalation, please prioritize.",deployment,2,2.6,divya,Medium
+T00998,Migrate admin database to automated during maintenance window. Related to the API gateway incident from last week.,deployment,8,19.8,hassan,Medium
+T00999,Null pointer exception occurring in inventory module during nightly operation. Please review before the next sprint.,bug,0,9.5,divya,High
+T01000,"Set up regression test suite for profile after critical change. Blocked by another team, follow up needed.",testing,15,8.5,hassan,Low
+T01001,Implement dark mode support for billing screen,feature,8,17.7,bharath,Low
+T01002,"Perform load testing on admin service under urgent traffic. Blocked by another team, follow up needed.",testing,6,3.5,alice,Low
+T01003,Data not saving correctly after critical update in reporting form,bug,3,5.1,chen,High
+T01004,Fix crash when user uploads automated file on admin page,bug,2,10.8,bharath,High
+T01005,Data not saving correctly after minor update in API gateway form. Related to the admin incident from last week.,bug,2,5.2,divya,Medium
+T01006,Null pointer exception occurring in checkout module during quarterly operation. Please review before the next sprint.,bug,1,9.4,esha,High
+T01007,Update API docs for the admin endpoint covering automated usage,documentation,5,10.5,bharath,Low
+T01008,Create changelog entry for large release of billing,bug,0,9.9,farhan,Low
+T01009,"Provision new large servers for auth scaling. Blocked by another team, follow up needed.",deployment,5,27.6,chen,Medium
+T01010,Data not saving correctly after minor update in API gateway form,bug,15,18.2,alice,Medium
+T01011,Update API docs for the search endpoint covering minor usage. Related to the inventory incident from last week.,documentation,3,1.2,alice,Low
+T01012,Add notification system for urgent events in billing,feature,2,8.1,farhan,Medium
+T01013,"Increase test coverage for mobile app edge cases in automated. Customer escalation, please prioritize.",testing,8,15.8,esha,Medium
+T01014,Add integration tests covering recurring flow in profile. Related to the auth incident from last week.,testing,15,13.3,divya,Low
+T01015,"Data not saving correctly after critical update in search form. Customer escalation, please prioritize.",bug,1,14.7,farhan,High
+T01016,Add integration tests covering nightly flow in billing. Related to the billing incident from last week.,testing,1,19.0,farhan,Medium
+T01017,Create new nightly widget for the search homepage,feature,4,5.4,hassan,Medium
+T01018,Add notification system for user-reported events in admin. Please review before the next sprint.,feature,0,11.3,bharath,High
+T01019,Migrate API gateway database to recurring during maintenance window,deployment,1,32.5,divya,Medium
+T01020,"Build export to minor functionality for inventory reports. Blocked by another team, follow up needed.",feature,4,16.7,esha,Medium
+T01021,"Roll out critical update to inventory production environment. Blocked by another team, follow up needed.",deployment,1,3.6,chen,Medium
+T01022,Add code comments explaining minor logic in profile module,documentation,1,13.8,esha,Medium
+T01023,Login fails intermittently with nightly error on mobile app browser,bug,9,43.8,hassan,Medium
+T01024,Add code comments explaining minor logic in billing module. Related to the auth incident from last week.,documentation,12,6.0,divya,Low
+T01025,Application freezes after clicking quarterly button on checkout,bug,4,9.5,esha,High
+T01026,"Implement dark mode support for checkout screen. Customer escalation, please prioritize.",feature,2,3.0,divya,Medium
+T01027,Migrate search database to large during maintenance window. Related to the API gateway incident from last week.,deployment,4,7.0,divya,Medium
+T01028,"Roll out recurring update to inventory production environment. Blocked by another team, follow up needed.",deployment,0,2.6,divya,Medium
+T01029,"Build export to minor functionality for profile reports. Blocked by another team, follow up needed.",feature,1,13.1,bharath,High
+T01030,Login fails intermittently with automated error on mobile app browser. Please review before the next sprint.,bug,8,11.6,alice,Medium
+T01031,Build export to urgent functionality for auth reports,testing,4,10.7,gita,Medium
+T01032,Application freezes after clicking critical button on checkout. Please review before the next sprint.,bug,1,8.1,esha,High
+T01033,"Write onboarding guide for new checkout users about quarterly. Blocked by another team, follow up needed.",testing,0,9.1,gita,Medium
+T01034,Application freezes after clicking automated button on inventory,bug,14,2.5,chen,Medium
+T01035,Provision new nightly servers for mobile app scaling. Related to the reporting incident from last week.,deployment,6,9.2,hassan,Low
+T01036,Write unit tests for urgent function in checkout module. Related to the API gateway incident from last week.,testing,2,2.2,alice,Medium
+T01037,Data not saving correctly after scheduled update in search form. Related to the checkout incident from last week.,bug,0,10.9,hassan,Medium
+T01038,Roll out automated update to checkout production environment,deployment,7,10.2,esha,Low
+T01039,Provision new nightly servers for mobile app scaling,deployment,6,17.7,divya,Medium
+T01040,"Update API docs for the auth endpoint covering critical usage. Blocked by another team, follow up needed.",documentation,0,12.0,esha,Medium
+T01041,"Implement dark mode support for billing screen. Customer escalation, please prioritize.",feature,9,9.3,hassan,Low
+T01042,"Create new urgent widget for the admin homepage. Blocked by another team, follow up needed.",feature,1,25.7,farhan,Medium
+T01043,Add code comments explaining automated logic in inventory module. Please review before the next sprint.,documentation,10,8.8,bharath,Low
+T01044,Write onboarding guide for new API gateway users about quarterly,documentation,14,16.2,hassan,Low
+T01045,Application freezes after clicking scheduled button on reporting. Please review before the next sprint.,bug,0,6.9,hassan,High
+T01046,Provision new recurring servers for profile scaling. Please review before the next sprint.,deployment,1,19.2,hassan,High
+T01047,Update API docs for the auth endpoint covering urgent usage. Related to the billing incident from last week.,documentation,6,11.2,divya,Low
+T01048,Data not saving correctly after user-reported update in auth form. Please review before the next sprint.,bug,7,18.3,farhan,Medium
+T01049,Set up regression test suite for admin after urgent change. Please review before the next sprint.,testing,4,14.8,esha,Medium
+T01050,Add scheduled filter option to the checkout dashboard,feature,0,9.9,hassan,Medium
+T01051,Create changelog entry for quarterly release of billing. Please review before the next sprint.,documentation,2,7.7,chen,Medium
+T01052,Roll out nightly update to auth production environment,deployment,1,5.7,bharath,High
+T01053,Document deployment steps for inventory service on urgent. Related to the auth incident from last week.,documentation,0,3.0,alice,Medium
+T01054,"Increase test coverage for search edge cases in urgent. Customer escalation, please prioritize.",deployment,4,3.2,alice,Medium
+T01055,Perform load testing on admin service under critical traffic. Please review before the next sprint.,testing,4,9.0,gita,Low
+T01056,"Create changelog entry for automated release of reporting. Customer escalation, please prioritize.",documentation,0,13.7,gita,Medium
+T01057,Provision new nightly servers for API gateway scaling. Related to the reporting incident from last week.,deployment,4,18.4,divya,Medium
+T01058,Document deployment steps for reporting service on recurring,documentation,0,28.9,alice,Medium
+T01059,Login fails intermittently with recurring error on admin browser. Related to the auth incident from last week.,bug,0,1.8,bharath,High
+T01060,Null pointer exception occurring in mobile app module during nightly operation. Related to the auth incident from last week.,bug,4,9.1,esha,High
+T01061,Data not saving correctly after user-reported update in mobile app form. Related to the checkout incident from last week.,bug,5,15.8,alice,Medium
+T01062,Write unit tests for recurring function in API gateway module. Related to the checkout incident from last week.,testing,9,,bharath,Low
+T01063,"Increase test coverage for auth edge cases in large. Blocked by another team, follow up needed.",documentation,0,22.3,alice,High
+T01064,Null pointer exception occurring in API gateway module during quarterly operation. Related to the profile incident from last week.,bug,7,3.8,gita,Low
+T01065,Null pointer exception occurring in search module during automated operation. Related to the profile incident from last week.,bug,2,13.2,esha,High
+T01066,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",feature,1,13.4,divya,Medium
+T01067,"Create new automated widget for the inventory homepage. Blocked by another team, follow up needed.",feature,7,35.2,divya,Medium
+T01068,Add scheduled filter option to the profile dashboard,feature,4,9.0,alice,Low
+T01069,Add large filter option to the billing dashboard,feature,1,11.2,chen,Medium
+T01070,Write unit tests for minor function in inventory module. Related to the reporting incident from last week.,testing,4,16.8,chen,Medium
+T01071,Create changelog entry for recurring release of billing. Please review before the next sprint.,documentation,3,8.3,bharath,Medium
+T01072,"Data not saving correctly after recurring update in reporting form. Customer escalation, please prioritize.",bug,3,7.9,esha,High
+T01073,Add integration tests covering quarterly flow in reporting. Please review before the next sprint.,testing,2,6.7,hassan,Low
+T01074,Migrate mobile app database to quarterly during maintenance window. Please review before the next sprint.,deployment,13,,esha,Low
+T01075,"Application freezes after clicking user-reported button on API gateway. Blocked by another team, follow up needed.",bug,4,16.1,farhan,Medium
+T01076,"Data not saving correctly after nightly update in profile form. Customer escalation, please prioritize.",bug,2,11.5,esha,High
+T01077,"Provision new automated servers for mobile app scaling. Blocked by another team, follow up needed.",deployment,2,11.3,hassan,Medium
+T01078,Implement dark mode support for billing screen. Related to the mobile app incident from last week.,feature,3,1.1,gita,Medium
+T01079,"Set up regression test suite for reporting after critical change. Blocked by another team, follow up needed.",testing,13,12.5,gita,Low
+T01080,"Fix crash when user uploads large file on API gateway page. Blocked by another team, follow up needed.",bug,11,5.3,hassan,Low
+T01081,Implement dark mode support for profile screen. Related to the API gateway incident from last week.,feature,3,3.3,bharath,Medium
+T01082,Configure CI/CD pipeline for reporting service on minor. Please review before the next sprint.,deployment,9,10.9,hassan,Low
+T01083,Login fails intermittently with automated error on auth browser. Please review before the next sprint.,bug,0,3.1,bharath,High
+T01084,Application freezes after clicking automated button on mobile app,testing,12,11.3,farhan,Medium
+T01085,Increase test coverage for profile edge cases in recurring,testing,0,16.2,esha,High
+T01086,"Create new minor widget for the profile homepage. Customer escalation, please prioritize.",feature,0,3.9,gita,High
+T01087,Roll out minor update to mobile app production environment,deployment,13,11.6,farhan,Medium
+T01088,Null pointer exception occurring in admin module during quarterly operation. Please review before the next sprint.,bug,0,1.0,bharath,High
+T01089,Application freezes after clicking scheduled button on billing,bug,2,27.3,alice,High
+T01090,Increase test coverage for API gateway edge cases in nightly. Related to the profile incident from last week.,testing,5,4.1,esha,Low
+T01091,Login fails intermittently with urgent error on checkout browser,bug,15,7.0,alice,Medium
+T01092,Fix crash when user uploads user-reported file on billing page. Please review before the next sprint.,bug,2,3.7,farhan,High
+T01093,Null pointer exception occurring in API gateway module during recurring operation. Please review before the next sprint.,bug,1,2.2,farhan,High
+T01094,"Update API docs for the search endpoint covering urgent usage. Blocked by another team, follow up needed.",documentation,13,9.0,gita,Low
+T01095,Write onboarding guide for new checkout users about minor. Please review before the next sprint.,documentation,1,44.0,divya,Medium
+T01096,Implement dark mode support for search screen,feature,7,29.4,bharath,Low
+T01097,Create changelog entry for urgent release of API gateway. Please review before the next sprint.,documentation,0,21.5,gita,Medium
+T01098,Add integration tests covering minor flow in mobile app,testing,1,1.3,chen,Medium
+T01099,Data not saving correctly after scheduled update in checkout form. Please review before the next sprint.,bug,0,17.7,esha,High
+T01100,Add integration tests covering user-reported flow in profile,testing,0,2.8,chen,Medium
+T01101,Login fails intermittently with large error on search browser. Related to the checkout incident from last week.,bug,1,5.3,bharath,High
+T01102,"Data not saving correctly after user-reported update in billing form. Blocked by another team, follow up needed.",bug,0,18.9,farhan,High
+T01103,"Write unit tests for minor function in auth module. Customer escalation, please prioritize.",testing,2,5.4,farhan,Medium
+T01104,"Provision new critical servers for admin scaling. Blocked by another team, follow up needed.",deployment,0,6.9,bharath,High
+T01105,Add notification system for minor events in profile,feature,4,7.8,farhan,Medium
+T01106,Null pointer exception occurring in API gateway module during recurring operation. Related to the API gateway incident from last week.,bug,3,11.6,bharath,Medium
+T01107,Null pointer exception occurring in inventory module during large operation. Please review before the next sprint.,bug,4,14.6,divya,Medium
+T01108,Login fails intermittently with scheduled error on admin browser. Please review before the next sprint.,bug,0,7.2,gita,High
+T01109,Add integration tests covering minor flow in auth. Please review before the next sprint.,testing,3,5.6,alice,Medium
+T01110,Application freezes after clicking user-reported button on reporting. Please review before the next sprint.,deployment,15,34.9,hassan,Medium
+T01111,"Fix crash when user uploads large file on search page. Blocked by another team, follow up needed.",bug,3,23.8,chen,High
+T01112,"Add code comments explaining automated logic in reporting module. Customer escalation, please prioritize.",documentation,27,4.6,farhan,Low
+T01113,Add code comments explaining urgent logic in API gateway module. Related to the search incident from last week.,documentation,30,15.8,gita,Low
+T01114,Data not saving correctly after automated update in billing form,bug,0,2.1,alice,High
+T01115,Create changelog entry for urgent release of profile. Related to the API gateway incident from last week.,documentation,6,4.8,farhan,Low
+T01116,Increase test coverage for search edge cases in nightly,testing,25,18.5,esha,Low
+T01117,"Add integration tests covering urgent flow in search. Customer escalation, please prioritize.",testing,4,11.0,divya,Medium
+T01118,Null pointer exception occurring in billing module during large operation. Related to the checkout incident from last week.,bug,10,20.6,bharath,Medium
+T01119,"Provision new urgent servers for mobile app scaling. Blocked by another team, follow up needed.",deployment,0,4.2,divya,High
+T01120,Write unit tests for quarterly function in profile module,deployment,5,14.4,gita,Medium
+T01121,"Roll out scheduled update to mobile app production environment. Blocked by another team, follow up needed.",deployment,11,22.0,hassan,Medium
+T01122,"Implement dark mode support for search screen. Customer escalation, please prioritize.",feature,1,14.8,chen,Medium
+T01123,"Roll out urgent update to inventory production environment. Customer escalation, please prioritize.",testing,4,1.4,farhan,Medium
+T01124,Build export to scheduled functionality for auth reports,feature,4,14.6,hassan,Low
+T01125,"Application freezes after clicking minor button on billing. Customer escalation, please prioritize.",bug,1,12.4,farhan,High
+T01126,Increase test coverage for profile edge cases in large. Related to the inventory incident from last week.,testing,4,5.8,chen,Low
+T01127,Add notification system for critical events in checkout,feature,5,2.3,gita,Low
+T01128,Null pointer exception occurring in mobile app module during nightly operation,bug,7,32.2,bharath,Medium
+T01129,Set up regression test suite for billing after critical change,testing,2,18.1,chen,Medium
+T01130,Add integration tests covering urgent flow in auth,testing,0,13.2,esha,High
+T01131,"Null pointer exception occurring in checkout module during critical operation. Blocked by another team, follow up needed.",bug,2,15.4,bharath,High
+T01132,"Increase test coverage for inventory edge cases in minor. Customer escalation, please prioritize.",testing,8,6.9,divya,Low
+T01133,Provision new nightly servers for admin scaling,deployment,4,4.3,chen,Medium
+T01134,Login fails intermittently with automated error on billing browser. Related to the auth incident from last week.,bug,0,3.2,esha,High
+T01135,Write onboarding guide for new admin users about large. Please review before the next sprint.,documentation,1,6.7,gita,Low
+T01136,Login fails intermittently with recurring error on reporting browser. Related to the inventory incident from last week.,bug,0,26.2,divya,High
+T01137,Create changelog entry for minor release of mobile app,documentation,2,18.4,hassan,Medium
+T01138,Login fails intermittently with critical error on API gateway browser. Please review before the next sprint.,bug,4,10.5,esha,High
+T01139,"Perform load testing on billing service under quarterly traffic. Blocked by another team, follow up needed.",testing,2,2.5,alice,Medium
+T01140,"Provision new urgent servers for API gateway scaling. Customer escalation, please prioritize.",bug,3,14.4,alice,Medium
+T01141,Set up monitoring alerts for billing after minor deploy,deployment,4,21.6,farhan,Medium
+T01142,Update API docs for the inventory endpoint covering user-reported usage,documentation,0,4.4,alice,Medium
+T01143,Add nightly filter option to the billing dashboard. Please review before the next sprint.,feature,4,9.0,farhan,Low
+T01144,Implement dark mode support for profile screen. Related to the reporting incident from last week.,bug,0,21.5,esha,High
+T01145,"Add code comments explaining quarterly logic in reporting module. Blocked by another team, follow up needed.",documentation,20,26.0,divya,Low
+T01146,Null pointer exception occurring in checkout module during recurring operation. Please review before the next sprint.,bug,4,12.8,gita,Medium
+T01147,Add quarterly filter option to the admin dashboard. Please review before the next sprint.,feature,2,12.4,farhan,Medium
+T01148,Null pointer exception occurring in mobile app module during scheduled operation,bug,0,9.8,esha,High
+T01149,"Null pointer exception occurring in checkout module during large operation. Customer escalation, please prioritize.",bug,15,5.8,gita,Low
+T01150,"Roll out minor update to mobile app production environment. Blocked by another team, follow up needed.",deployment,6,27.6,farhan,Medium
+T01151,Create new critical widget for the reporting homepage,feature,3,8.9,gita,Medium
+T01152,Fix crash when user uploads minor file on checkout page,bug,15,5.2,gita,Medium
+T01153,Data not saving correctly after user-reported update in admin form,bug,9,11.6,esha,Medium
+T01154,Application freezes after clicking large button on auth,bug,3,10.0,farhan,High
+T01155,"Null pointer exception occurring in profile module during user-reported operation. Blocked by another team, follow up needed.",bug,0,3.8,alice,High
+T01156,Increase test coverage for search edge cases in urgent,testing,15,3.2,bharath,Low
+T01157,Write unit tests for urgent function in reporting module. Related to the API gateway incident from last week.,testing,0,13.0,divya,Medium
+T01158,Add notification system for nightly events in billing. Related to the auth incident from last week.,feature,14,18.0,esha,Low
+T01159,"Perform load testing on billing service under recurring traffic. Customer escalation, please prioritize.",testing,2,8.1,bharath,Medium
+T01160,Null pointer exception occurring in billing module during large operation. Related to the mobile app incident from last week.,bug,6,11.5,farhan,Medium
+T01161,Add quarterly filter option to the API gateway dashboard,feature,5,11.3,hassan,Medium
+T01162,Implement dark mode support for search screen. Related to the API gateway incident from last week.,feature,3,13.0,divya,Medium
+T01163,"Roll out minor update to checkout production environment. Blocked by another team, follow up needed.",deployment,0,6.2,farhan,High
+T01164,Increase test coverage for admin edge cases in urgent,testing,7,34.2,gita,Low
+T01165,"Update API docs for the mobile app endpoint covering recurring usage. Customer escalation, please prioritize.",documentation,2,6.3,gita,Low
+T01166,"Implement dark mode support for profile screen. Blocked by another team, follow up needed.",feature,1,5.8,esha,Medium
+T01167,"Implement dark mode support for inventory screen. Blocked by another team, follow up needed.",feature,1,21.6,chen,High
+T01168,Data not saving correctly after recurring update in inventory form,bug,5,7.2,alice,Medium
+T01169,Build export to quarterly functionality for search reports. Related to the search incident from last week.,feature,2,6.1,chen,Medium
+T01170,Data not saving correctly after recurring update in reporting form,deployment,1,5.3,esha,Medium
+T01171,Add notification system for urgent events in search,feature,1,15.7,farhan,Medium
+T01172,"Perform load testing on admin service under user-reported traffic. Blocked by another team, follow up needed.",testing,3,7.1,gita,Medium
+T01173,Create changelog entry for user-reported release of auth. Related to the inventory incident from last week.,documentation,1,16.0,divya,Medium
+T01174,"Fix crash when user uploads scheduled file on mobile app page. Customer escalation, please prioritize.",testing,3,10.3,chen,Medium
+T01175,Write onboarding guide for new auth users about urgent,documentation,0,20.8,chen,Medium
+T01176,"Application freezes after clicking nightly button on admin. Customer escalation, please prioritize.",bug,2,11.9,gita,Medium
+T01177,"Add notification system for large events in admin. Customer escalation, please prioritize.",feature,3,22.1,alice,Medium
+T01178,Migrate admin database to critical during maintenance window,deployment,1,14.1,farhan,High
+T01179,Update API docs for the API gateway endpoint covering scheduled usage. Please review before the next sprint.,documentation,6,4.7,farhan,Low
+T01180,"Document deployment steps for API gateway service on nightly. Customer escalation, please prioritize.",documentation,3,4.5,esha,Medium
+T01181,Write unit tests for automated function in API gateway module. Related to the profile incident from last week.,testing,7,3.4,hassan,Low
+T01182,Add code comments explaining user-reported logic in reporting module,documentation,3,4.2,esha,Low
+T01183,Null pointer exception occurring in auth module during critical operation,bug,10,24.2,farhan,Low
+T01184,Add integration tests covering nightly flow in billing,testing,4,20.0,chen,Medium
+T01185,Data not saving correctly after critical update in reporting form,bug,1,5.1,farhan,Medium
+T01186,Build export to scheduled functionality for API gateway reports,feature,4,14.0,divya,Low
+T01187,"Set up monitoring alerts for mobile app after critical deploy. Customer escalation, please prioritize.",deployment,7,12.9,bharath,Medium
+T01188,Login fails intermittently with scheduled error on reporting browser. Related to the API gateway incident from last week.,feature,12,17.6,esha,Medium
+T01189,Create changelog entry for minor release of mobile app. Please review before the next sprint.,documentation,6,19.9,alice,Low
+T01190,Implement dark mode support for auth screen. Related to the auth incident from last week.,feature,1,15.8,chen,Medium
+T01191,Implement dark mode support for admin screen,feature,1,6.9,gita,High
+T01192,Roll out nightly update to billing production environment,deployment,6,14.0,esha,Medium
+T01193,Update API docs for the billing endpoint covering quarterly usage. Related to the reporting incident from last week.,documentation,4,15.4,farhan,Low
+T01194,Data not saving correctly after quarterly update in reporting form,bug,0,1.0,esha,High
+T01195,"Increase test coverage for checkout edge cases in critical. Blocked by another team, follow up needed.",testing,1,6.1,esha,Medium
+T01196,"Perform load testing on profile service under quarterly traffic. Customer escalation, please prioritize.",testing,4,45.0,esha,Medium
+T01197,"Create changelog entry for scheduled release of inventory. Customer escalation, please prioritize.",deployment,6,17.3,gita,Low
+T01198,"Login fails intermittently with large error on inventory browser. Customer escalation, please prioritize.",bug,0,9.0,alice,High
+T01199,"Implement dark mode support for inventory screen. Blocked by another team, follow up needed.",feature,2,6.9,farhan,Medium
+T01200,Null pointer exception occurring in API gateway module during critical operation. Please review before the next sprint.,bug,3,33.0,hassan,High
+T01201,"Add notification system for large events in reporting. Blocked by another team, follow up needed.",feature,3,10.4,gita,Low
+T01202,Write onboarding guide for new admin users about scheduled,documentation,3,14.9,hassan,Low
+T01203,Build export to user-reported functionality for mobile app reports. Please review before the next sprint.,feature,0,20.8,gita,High
+T01204,Add notification system for nightly events in checkout,feature,4,10.9,bharath,Medium
+T01205,Increase test coverage for billing edge cases in large. Related to the checkout incident from last week.,testing,0,7.9,divya,Medium
+T01206,Add notification system for automated events in search,feature,1,1.6,bharath,High
+T01207,Set up regression test suite for mobile app after user-reported change. Related to the API gateway incident from last week.,documentation,7,32.8,chen,Medium
+T01208,Create changelog entry for scheduled release of search,documentation,12,2.3,divya,Low
+T01209,"Update API docs for the reporting endpoint covering user-reported usage. Blocked by another team, follow up needed.",documentation,0,1.1,hassan,Medium
+T01210,Login fails intermittently with user-reported error on mobile app browser. Please review before the next sprint.,bug,1,10.7,chen,Medium
+T01211,Login fails intermittently with scheduled error on inventory browser,bug,1,11.2,gita,High
+T01212,Data not saving correctly after recurring update in profile form,bug,0,17.1,gita,High
+T01213,Create new urgent widget for the inventory homepage,feature,0,25.5,chen,High
+T01214,Application freezes after clicking nightly button on mobile app,bug,2,8.4,alice,High
+T01215,Build export to large functionality for profile reports. Please review before the next sprint.,feature,0,9.7,divya,Medium
+T01216,Login fails intermittently with minor error on API gateway browser. Related to the API gateway incident from last week.,bug,10,9.1,alice,Medium
+T01217,Add code comments explaining urgent logic in mobile app module. Please review before the next sprint.,documentation,16,7.3,divya,Low
+T01218,"Migrate inventory database to recurring during maintenance window. Customer escalation, please prioritize.",deployment,1,13.0,alice,Medium
+T01219,"Fix crash when user uploads quarterly file on billing page. Customer escalation, please prioritize.",bug,2,18.2,alice,High
+T01220,Create new large widget for the mobile app homepage. Related to the inventory incident from last week.,feature,19,36.9,bharath,Medium
+T01221,Application freezes after clicking quarterly button on profile,bug,1,17.3,gita,High
+T01222,Application freezes after clicking nightly button on search. Please review before the next sprint.,bug,9,5.0,divya,Medium
+T01223,"Application freezes after clicking nightly button on profile. Blocked by another team, follow up needed.",bug,0,6.6,gita,High
+T01224,Login fails intermittently with scheduled error on inventory browser. Please review before the next sprint.,bug,1,6.3,esha,High
+T01225,Perform load testing on admin service under nightly traffic,testing,3,12.8,bharath,Medium
+T01226,"Update API docs for the auth endpoint covering scheduled usage. Customer escalation, please prioritize.",documentation,14,15.9,farhan,Low
+T01227,Create changelog entry for minor release of mobile app,documentation,3,10.4,chen,Medium
+T01228,"Add notification system for recurring events in checkout. Blocked by another team, follow up needed.",feature,9,12.2,hassan,Low
+T01229,Provision new critical servers for admin scaling,deployment,1,30.8,farhan,High
+T01230,"Fix crash when user uploads nightly file on auth page. Blocked by another team, follow up needed.",bug,2,32.7,farhan,High
+T01231,Implement dark mode support for search screen,feature,3,3.5,bharath,Medium
+T01232,Build export to nightly functionality for mobile app reports,feature,1,15.2,chen,Medium
+T01233,Fix crash when user uploads large file on admin page. Related to the search incident from last week.,bug,9,5.6,chen,Medium
+T01234,Add notification system for scheduled events in billing. Please review before the next sprint.,feature,16,9.8,chen,Medium
+T01235,Build export to minor functionality for inventory reports,feature,5,14.2,divya,Low
+T01236,Roll out recurring update to profile production environment. Please review before the next sprint.,deployment,14,14.5,hassan,Medium
+T01237,Migrate auth database to nightly during maintenance window. Please review before the next sprint.,feature,4,9.6,bharath,Medium
+T01238,Add large filter option to the profile dashboard. Related to the billing incident from last week.,feature,1,8.1,farhan,Medium
+T01239,"Create new large widget for the inventory homepage. Customer escalation, please prioritize.",feature,6,1.9,hassan,Medium
+T01240,Add integration tests covering nightly flow in profile. Please review before the next sprint.,testing,2,8.6,bharath,Medium
+T01241,Data not saving correctly after automated update in checkout form. Please review before the next sprint.,bug,2,28.9,chen,High
+T01242,Set up monitoring alerts for mobile app after urgent deploy. Related to the profile incident from last week.,deployment,1,13.4,farhan,High
+T01243,Set up monitoring alerts for API gateway after quarterly deploy,deployment,1,13.6,alice,High
+T01244,Update API docs for the inventory endpoint covering nightly usage,documentation,10,7.3,farhan,Low
+T01245,Migrate search database to urgent during maintenance window,deployment,5,37.8,hassan,Medium
+T01246,"Write unit tests for automated function in mobile app module. Customer escalation, please prioritize.",testing,13,8.6,bharath,Low
+T01247,Create new quarterly widget for the auth homepage. Related to the billing incident from last week.,feature,1,5.7,esha,Medium
+T01248,Build export to user-reported functionality for inventory reports. Please review before the next sprint.,feature,5,17.7,chen,Low
+T01249,Implement dark mode support for profile screen. Please review before the next sprint.,feature,5,14.2,bharath,Low
+T01250,"Add notification system for recurring events in checkout. Blocked by another team, follow up needed.",feature,11,16.6,hassan,Low
+T01251,Migrate mobile app database to recurring during maintenance window. Related to the billing incident from last week.,deployment,3,13.4,alice,Medium
+T01252,Implement dark mode support for API gateway screen. Related to the inventory incident from last week.,feature,3,6.8,esha,Medium
+T01253,Null pointer exception occurring in reporting module during quarterly operation,bug,4,13.5,divya,Medium
+T01254,Null pointer exception occurring in profile module during minor operation. Please review before the next sprint.,bug,4,3.0,alice,Medium
+T01255,Login fails intermittently with urgent error on billing browser. Please review before the next sprint.,bug,12,11.1,esha,Medium
+T01256,"Create new urgent widget for the checkout homepage. Customer escalation, please prioritize.",feature,6,10.8,bharath,Medium
+T01257,Add nightly filter option to the search dashboard,feature,2,5.7,chen,Low
+T01258,"Implement dark mode support for search screen. Customer escalation, please prioritize.",feature,7,9.4,hassan,Medium
+T01259,"Set up regression test suite for reporting after quarterly change. Customer escalation, please prioritize.",testing,8,13.9,hassan,Low
+T01260,Application freezes after clicking urgent button on admin. Please review before the next sprint.,bug,3,11.9,alice,High
+T01261,Configure CI/CD pipeline for API gateway service on quarterly. Please review before the next sprint.,documentation,0,1.3,farhan,High
+T01262,Document deployment steps for auth service on large,documentation,3,6.1,farhan,Low
+T01263,Write unit tests for large function in inventory module. Related to the admin incident from last week.,deployment,2,5.3,bharath,Medium
+T01264,Data not saving correctly after recurring update in checkout form,bug,7,1.9,divya,Medium
+T01265,"Fix crash when user uploads recurring file on admin page. Customer escalation, please prioritize.",bug,1,7.5,gita,High
+T01266,"Login fails intermittently with critical error on auth browser. Blocked by another team, follow up needed.",bug,2,13.7,bharath,High
+T01267,Null pointer exception occurring in inventory module during user-reported operation. Related to the checkout incident from last week.,bug,12,19.9,bharath,Medium
+T01268,Set up monitoring alerts for admin after recurring deploy,deployment,3,30.7,gita,High
+T01269,Null pointer exception occurring in mobile app module during minor operation,bug,6,3.9,divya,Low
+T01270,"Add notification system for scheduled events in API gateway. Customer escalation, please prioritize.",feature,13,1.3,gita,Low
+T01271,"Migrate checkout database to nightly during maintenance window. Blocked by another team, follow up needed.",deployment,17,30.3,divya,Medium
+T01272,Configure CI/CD pipeline for inventory service on minor,deployment,4,2.4,chen,Medium
+T01273,Fix crash when user uploads critical file on billing page,bug,2,6.5,bharath,High
+T01274,"Add integration tests covering urgent flow in billing. Blocked by another team, follow up needed.",testing,2,7.6,farhan,Medium
+T01275,"Add integration tests covering nightly flow in admin. Blocked by another team, follow up needed.",testing,1,21.0,esha,High
+T01276,"Data not saving correctly after urgent update in inventory form. Customer escalation, please prioritize.",bug,5,23.6,bharath,Medium
+T01277,Provision new automated servers for billing scaling,deployment,4,1.0,hassan,Medium
+T01278,Application freezes after clicking quarterly button on billing,bug,4,1.9,bharath,High
+T01279,Data not saving correctly after nightly update in search form,bug,30,24.7,farhan,Low
+T01280,Implement dark mode support for billing screen. Related to the auth incident from last week.,feature,3,19.3,bharath,Medium
+T01281,"Null pointer exception occurring in billing module during user-reported operation. Blocked by another team, follow up needed.",bug,7,3.1,bharath,Low
+T01282,"Create new minor widget for the search homepage. Blocked by another team, follow up needed.",feature,2,4.9,farhan,Medium
+T01283,Increase test coverage for mobile app edge cases in minor. Please review before the next sprint.,testing,1,11.0,hassan,Medium
+T01284,"Perform load testing on profile service under scheduled traffic. Blocked by another team, follow up needed.",testing,15,6.3,esha,Low
+T01285,"Fix crash when user uploads automated file on inventory page. Blocked by another team, follow up needed.",bug,10,7.3,alice,Medium
+T01286,Add code comments explaining nightly logic in checkout module. Related to the checkout incident from last week.,documentation,1,5.5,farhan,Medium
+T01287,Null pointer exception occurring in billing module during quarterly operation,bug,0,4.7,esha,High
+T01288,Add minor filter option to the checkout dashboard. Related to the auth incident from last week.,feature,8,25.5,bharath,Low
+T01289,Null pointer exception occurring in reporting module during recurring operation. Please review before the next sprint.,bug,6,11.6,bharath,Medium
+T01290,"Configure CI/CD pipeline for reporting service on recurring. Blocked by another team, follow up needed.",deployment,1,21.1,gita,High
+T01291,Add integration tests covering urgent flow in inventory. Related to the admin incident from last week.,testing,11,3.5,bharath,Low
+T01292,Login fails intermittently with user-reported error on profile browser,bug,14,1.8,gita,Medium
+T01293,"Login fails intermittently with large error on reporting browser. Blocked by another team, follow up needed.",deployment,24,2.0,bharath,Low
+T01294,"Add recurring filter option to the reporting dashboard. Customer escalation, please prioritize.",feature,0,16.6,esha,High
+T01295,Increase test coverage for mobile app edge cases in automated,testing,4,,divya,Low
+T01296,Null pointer exception occurring in reporting module during nightly operation,bug,3,16.0,chen,Medium
+T01297,"Add scheduled filter option to the inventory dashboard. Customer escalation, please prioritize.",feature,1,39.2,chen,High
+T01298,Add notification system for quarterly events in admin,feature,6,11.1,alice,Medium
+T01299,"Login fails intermittently with recurring error on billing browser. Customer escalation, please prioritize.",bug,2,17.1,bharath,High
+T01300,"Create changelog entry for automated release of admin. Customer escalation, please prioritize.",documentation,3,6.3,bharath,Medium
+T01301,Add code comments explaining large logic in auth module. Please review before the next sprint.,documentation,7,7.0,esha,Low
+T01302,Fix crash when user uploads recurring file on API gateway page,bug,1,17.3,esha,High
+T01303,"Update API docs for the checkout endpoint covering quarterly usage. Customer escalation, please prioritize.",documentation,5,9.4,hassan,Low
+T01304,Null pointer exception occurring in profile module during quarterly operation. Please review before the next sprint.,bug,0,3.0,gita,High
+T01305,Build export to large functionality for profile reports. Please review before the next sprint.,feature,0,5.3,alice,High
+T01306,Write onboarding guide for new inventory users about critical. Related to the profile incident from last week.,testing,7,3.4,bharath,Low
+T01307,Application freezes after clicking nightly button on search. Related to the reporting incident from last week.,bug,2,19.8,gita,High
+T01308,"Application freezes after clicking minor button on search. Customer escalation, please prioritize.",bug,12,,bharath,Medium
+T01309,Null pointer exception occurring in admin module during quarterly operation. Related to the billing incident from last week.,bug,12,8.1,gita,Medium
+T01310,Roll out large update to inventory production environment. Please review before the next sprint.,deployment,0,15.9,chen,High
+T01311,Build export to scheduled functionality for API gateway reports,feature,3,7.6,farhan,Medium
+T01312,"Fix crash when user uploads scheduled file on mobile app page. Blocked by another team, follow up needed.",bug,2,7.7,esha,Medium
+T01313,Write unit tests for critical function in profile module,testing,0,2.0,esha,High
+T01314,Data not saving correctly after urgent update in mobile app form. Please review before the next sprint.,bug,20,3.9,bharath,Medium
+T01315,Roll out nightly update to mobile app production environment. Please review before the next sprint.,deployment,3,19.5,gita,Medium
+T01316,"Add code comments explaining user-reported logic in auth module. Blocked by another team, follow up needed.",documentation,4,8.5,alice,Low
+T01317,Set up regression test suite for billing after large change,testing,15,6.3,bharath,Low
+T01318,Create new nightly widget for the billing homepage. Please review before the next sprint.,feature,6,7.4,divya,Low
+T01319,"Null pointer exception occurring in API gateway module during critical operation. Customer escalation, please prioritize.",bug,0,4.2,divya,High
+T01320,Data not saving correctly after scheduled update in API gateway form,bug,3,8.7,alice,Medium
+T01321,Add notification system for nightly events in reporting. Related to the mobile app incident from last week.,feature,0,26.3,divya,High
+T01322,Null pointer exception occurring in inventory module during automated operation,bug,0,28.6,divya,High
+T01323,"Fix crash when user uploads scheduled file on auth page. Customer escalation, please prioritize.",bug,18,14.9,hassan,Medium
+T01324,"Login fails intermittently with automated error on mobile app browser. Customer escalation, please prioritize.",bug,5,12.8,alice,Medium
+T01325,Build export to user-reported functionality for API gateway reports,feature,0,11.4,gita,Medium
+T01326,"Write unit tests for quarterly function in profile module. Blocked by another team, follow up needed.",testing,10,7.4,farhan,Low
+T01327,Migrate reporting database to large during maintenance window. Please review before the next sprint.,deployment,3,16.1,chen,Medium
+T01328,"Data not saving correctly after nightly update in billing form. Blocked by another team, follow up needed.",bug,8,5.5,divya,Low
+T01329,"Add integration tests covering scheduled flow in mobile app. Blocked by another team, follow up needed.",testing,2,4.5,farhan,High
+T01330,"Create changelog entry for large release of reporting. Customer escalation, please prioritize.",documentation,3,20.0,bharath,Medium
+T01331,Document deployment steps for checkout service on urgent,documentation,13,20.4,hassan,Low
+T01332,"Add notification system for scheduled events in mobile app. Customer escalation, please prioritize.",feature,0,8.3,chen,Medium
+T01333,"Roll out user-reported update to admin production environment. Blocked by another team, follow up needed.",deployment,1,2.9,farhan,Medium
+T01334,"Add notification system for large events in auth. Customer escalation, please prioritize.",feature,0,5.0,hassan,Medium
+T01335,Write unit tests for large function in profile module,testing,1,7.6,hassan,Medium
+T01336,Fix crash when user uploads nightly file on checkout page. Related to the admin incident from last week.,bug,3,5.2,esha,Medium
+T01337,Null pointer exception occurring in auth module during large operation. Related to the billing incident from last week.,bug,0,17.4,bharath,High
+T01338,Implement dark mode support for admin screen,feature,1,6.3,divya,Medium
+T01339,"Increase test coverage for auth edge cases in minor. Blocked by another team, follow up needed.",testing,10,,esha,Medium
+T01340,Data not saving correctly after nightly update in admin form,bug,4,7.2,bharath,Medium
+T01341,Update API docs for the inventory endpoint covering minor usage. Related to the profile incident from last week.,documentation,20,3.8,hassan,Low
+T01342,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",testing,0,3.6,esha,Medium
+T01343,Set up monitoring alerts for profile after large deploy. Related to the inventory incident from last week.,deployment,0,36.6,gita,High
+T01344,"Add integration tests covering recurring flow in auth. Customer escalation, please prioritize.",testing,3,12.6,chen,Low
+T01345,Write unit tests for quarterly function in mobile app module. Please review before the next sprint.,testing,6,16.6,divya,Low
+T01346,"Provision new minor servers for reporting scaling. Blocked by another team, follow up needed.",deployment,2,40.8,farhan,High
+T01347,Login fails intermittently with user-reported error on profile browser,bug,1,4.9,chen,High
+T01348,Update API docs for the API gateway endpoint covering user-reported usage,documentation,5,10.7,divya,Low
+T01349,Migrate auth database to quarterly during maintenance window,deployment,12,10.8,hassan,Low
+T01350,Increase test coverage for API gateway edge cases in minor,testing,1,4.5,bharath,High
+T01351,"Provision new large servers for inventory scaling. Customer escalation, please prioritize.",deployment,9,8.3,divya,Low
+T01352,Add integration tests covering user-reported flow in reporting,testing,0,8.8,esha,Medium
+T01353,Fix crash when user uploads critical file on auth page. Related to the inventory incident from last week.,bug,3,20.1,esha,Medium
+T01354,"Write onboarding guide for new reporting users about minor. Customer escalation, please prioritize.",documentation,2,5.5,alice,Low
+T01355,Implement dark mode support for mobile app screen,feature,2,7.3,farhan,Medium
+T01356,Create new large widget for the auth homepage. Please review before the next sprint.,feature,3,16.7,gita,Medium
+T01357,Login fails intermittently with recurring error on profile browser. Related to the billing incident from last week.,bug,0,6.8,hassan,High
+T01358,"Configure CI/CD pipeline for inventory service on urgent. Blocked by another team, follow up needed.",deployment,2,7.7,chen,Medium
+T01359,Update API docs for the checkout endpoint covering large usage. Please review before the next sprint.,documentation,2,30.1,gita,Medium
+T01360,Build export to urgent functionality for profile reports,feature,7,13.2,chen,Low
+T01361,"Roll out automated update to checkout production environment. Blocked by another team, follow up needed.",deployment,4,7.3,hassan,Medium
+T01362,Implement dark mode support for auth screen. Please review before the next sprint.,feature,2,5.4,hassan,Medium
+T01363,Add recurring filter option to the checkout dashboard,feature,1,16.4,gita,High
+T01364,Roll out user-reported update to inventory production environment. Related to the mobile app incident from last week.,deployment,6,7.1,bharath,Medium
+T01365,Application freezes after clicking urgent button on billing,bug,1,17.3,alice,High
+T01366,"Add integration tests covering recurring flow in profile. Blocked by another team, follow up needed.",testing,2,8.4,farhan,Medium
+T01367,Application freezes after clicking recurring button on billing,bug,8,,esha,Low
+T01368,Create changelog entry for quarterly release of reporting. Related to the billing incident from last week.,documentation,3,15.1,bharath,Medium
+T01369,Add integration tests covering urgent flow in mobile app,testing,2,7.9,esha,Medium
+T01370,Login fails intermittently with automated error on mobile app browser. Please review before the next sprint.,bug,2,19.0,farhan,Medium
+T01371,Set up monitoring alerts for checkout after recurring deploy. Related to the profile incident from last week.,deployment,4,,bharath,Medium
+T01372,"Implement dark mode support for billing screen. Customer escalation, please prioritize.",feature,4,25.6,gita,Medium
+T01373,"Build export to critical functionality for reporting reports. Blocked by another team, follow up needed.",feature,8,5.4,farhan,Low
+T01374,Write onboarding guide for new mobile app users about automated,documentation,2,4.2,alice,Low
+T01375,Application freezes after clicking nightly button on API gateway. Related to the admin incident from last week.,bug,0,21.7,bharath,High
+T01376,Create changelog entry for minor release of mobile app. Related to the reporting incident from last week.,documentation,13,14.0,hassan,Low
+T01377,Null pointer exception occurring in mobile app module during large operation,bug,5,9.2,gita,Medium
+T01378,Document deployment steps for admin service on user-reported. Please review before the next sprint.,documentation,3,26.6,hassan,Medium
+T01379,Create new large widget for the mobile app homepage,feature,0,16.7,esha,High
+T01380,Add integration tests covering minor flow in reporting,testing,10,26.8,farhan,Low
+T01381,Update API docs for the profile endpoint covering minor usage,documentation,11,2.4,farhan,Low
+T01382,"Build export to urgent functionality for mobile app reports. Customer escalation, please prioritize.",feature,2,26.2,divya,High
+T01383,Roll out quarterly update to mobile app production environment,deployment,8,10.8,esha,Low
+T01384,Add notification system for scheduled events in auth. Related to the admin incident from last week.,feature,2,8.0,hassan,Medium
+T01385,Add notification system for urgent events in inventory. Please review before the next sprint.,feature,1,1.0,alice,Medium
+T01386,"Create new minor widget for the API gateway homepage. Customer escalation, please prioritize.",feature,2,1.0,alice,Medium
+T01387,"Create changelog entry for urgent release of auth. Customer escalation, please prioritize.",documentation,6,16.8,alice,Low
+T01388,Fix crash when user uploads large file on auth page,bug,1,19.7,bharath,High
+T01389,Add urgent filter option to the API gateway dashboard. Please review before the next sprint.,feature,7,30.5,divya,Low
+T01390,"Update API docs for the search endpoint covering user-reported usage. Blocked by another team, follow up needed.",documentation,3,9.7,gita,Low
+T01391,Add code comments explaining large logic in auth module,documentation,0,5.7,bharath,Medium
+T01392,Login fails intermittently with large error on reporting browser. Related to the checkout incident from last week.,bug,3,11.3,farhan,Medium
+T01393,"Null pointer exception occurring in checkout module during quarterly operation. Blocked by another team, follow up needed.",bug,7,11.1,esha,Medium
+T01394,Add code comments explaining urgent logic in API gateway module,documentation,1,10.9,chen,Medium
+T01395,Create new critical widget for the checkout homepage,feature,8,3.7,hassan,Low
+T01396,Login fails intermittently with large error on billing browser,bug,2,28.4,esha,High
+T01397,Create changelog entry for scheduled release of admin,documentation,0,9.3,divya,Medium
+T01398,Migrate mobile app database to nightly during maintenance window,deployment,7,1.0,esha,Medium
+T01399,"Configure CI/CD pipeline for API gateway service on nightly. Blocked by another team, follow up needed.",deployment,5,14.0,esha,Medium
+T01400,"Build export to minor functionality for billing reports. Blocked by another team, follow up needed.",feature,7,18.4,gita,Medium
+T01401,Add large filter option to the inventory dashboard,feature,5,26.3,divya,Medium
+T01402,Provision new minor servers for profile scaling,deployment,1,23.7,chen,High
+T01403,"Increase test coverage for profile edge cases in critical. Customer escalation, please prioritize.",testing,3,3.4,alice,Medium
+T01404,Provision new large servers for checkout scaling. Related to the checkout incident from last week.,deployment,0,14.7,gita,High
+T01405,Provision new critical servers for profile scaling. Related to the reporting incident from last week.,deployment,11,2.9,alice,Medium
+T01406,Build export to critical functionality for billing reports. Related to the auth incident from last week.,feature,6,9.4,gita,Medium
+T01407,"Add notification system for critical events in search. Customer escalation, please prioritize.",feature,3,7.2,chen,Medium
+T01408,Application freezes after clicking quarterly button on admin,bug,1,8.9,bharath,High
+T01409,"Add notification system for quarterly events in search. Blocked by another team, follow up needed.",feature,1,20.6,bharath,Medium
+T01410,"Add code comments explaining minor logic in checkout module. Blocked by another team, follow up needed.",documentation,0,8.4,hassan,Medium
+T01411,Create changelog entry for nightly release of search,documentation,3,23.6,alice,Medium
+T01412,Add notification system for quarterly events in profile. Please review before the next sprint.,feature,2,7.0,alice,Medium
+T01413,Provision new user-reported servers for search scaling,deployment,2,6.6,bharath,Medium
+T01414,Document deployment steps for reporting service on quarterly. Please review before the next sprint.,deployment,6,13.8,farhan,Low
+T01415,Build export to recurring functionality for checkout reports,feature,19,12.2,alice,Low
+T01416,Null pointer exception occurring in search module during automated operation,bug,4,6.4,esha,Medium
+T01417,Fix crash when user uploads quarterly file on search page,bug,5,2.4,farhan,Medium
+T01418,"Data not saving correctly after critical update in profile form. Customer escalation, please prioritize.",bug,2,10.0,hassan,High
+T01419,"Increase test coverage for reporting edge cases in urgent. Blocked by another team, follow up needed.",testing,0,11.4,alice,Medium
+T01420,Create new recurring widget for the reporting homepage. Please review before the next sprint.,feature,19,8.6,esha,Low
+T01421,Provision new minor servers for reporting scaling,deployment,0,2.6,alice,High
+T01422,"Increase test coverage for mobile app edge cases in user-reported. Blocked by another team, follow up needed.",testing,9,10.3,hassan,Low
+T01423,Null pointer exception occurring in profile module during automated operation,deployment,5,13.3,divya,Medium
+T01424,"Provision new critical servers for reporting scaling. Customer escalation, please prioritize.",deployment,12,4.3,bharath,Low
+T01425,Perform load testing on auth service under urgent traffic. Related to the inventory incident from last week.,testing,3,14.5,alice,Medium
+T01426,Application freezes after clicking scheduled button on search,bug,7,,chen,Medium
+T01427,"Add code comments explaining urgent logic in profile module. Blocked by another team, follow up needed.",documentation,3,2.6,farhan,Medium
+T01428,Add integration tests covering minor flow in auth,testing,2,5.6,divya,Medium
+T01429,Add automated filter option to the search dashboard. Related to the checkout incident from last week.,feature,9,9.3,esha,Low
+T01430,Add user-reported filter option to the admin dashboard. Please review before the next sprint.,feature,8,20.9,divya,Medium
+T01431,Data not saving correctly after user-reported update in profile form. Please review before the next sprint.,bug,2,6.0,bharath,High
+T01432,Create new large widget for the auth homepage,feature,0,12.9,alice,Medium
+T01433,"Add notification system for quarterly events in billing. Blocked by another team, follow up needed.",feature,0,8.2,gita,High
+T01434,Implement dark mode support for mobile app screen. Please review before the next sprint.,deployment,4,12.0,chen,Medium
+T01435,Add notification system for quarterly events in admin. Related to the inventory incident from last week.,feature,0,9.6,gita,Medium
+T01436,Document deployment steps for checkout service on critical. Please review before the next sprint.,documentation,3,16.1,farhan,Medium
+T01437,"Null pointer exception occurring in reporting module during user-reported operation. Blocked by another team, follow up needed.",bug,4,18.8,chen,Medium
+T01438,Null pointer exception occurring in search module during nightly operation. Please review before the next sprint.,bug,9,17.6,alice,Medium
+T01439,"Configure CI/CD pipeline for billing service on scheduled. Customer escalation, please prioritize.",deployment,3,6.3,gita,Medium
+T01440,Null pointer exception occurring in auth module during user-reported operation,bug,1,10.0,gita,High
+T01441,Null pointer exception occurring in inventory module during scheduled operation. Please review before the next sprint.,documentation,10,21.2,gita,Medium
+T01442,"Implement dark mode support for inventory screen. Customer escalation, please prioritize.",feature,1,12.8,divya,Medium
+T01443,"Write onboarding guide for new billing users about large. Customer escalation, please prioritize.",documentation,4,7.1,hassan,Medium
+T01444,"Configure CI/CD pipeline for inventory service on minor. Blocked by another team, follow up needed.",deployment,1,10.0,alice,High
+T01445,Add nightly filter option to the mobile app dashboard. Related to the profile incident from last week.,feature,6,6.0,alice,Medium
+T01446,Write onboarding guide for new billing users about large,documentation,0,14.9,farhan,Medium
+T01447,Migrate checkout database to user-reported during maintenance window. Please review before the next sprint.,deployment,4,19.5,alice,Medium
+T01448,Build export to critical functionality for mobile app reports,feature,1,1.0,hassan,High
+T01449,Create new urgent widget for the billing homepage. Please review before the next sprint.,feature,2,11.5,bharath,Medium
+T01450,Document deployment steps for inventory service on user-reported. Please review before the next sprint.,documentation,11,8.0,hassan,Low
+T01451,Perform load testing on mobile app service under recurring traffic. Please review before the next sprint.,testing,2,11.0,divya,Medium
+T01452,"Login fails intermittently with scheduled error on inventory browser. Blocked by another team, follow up needed.",bug,3,6.0,esha,Medium
+T01453,"Implement dark mode support for profile screen. Blocked by another team, follow up needed.",feature,6,21.9,bharath,Medium
+T01454,Data not saving correctly after large update in auth form. Please review before the next sprint.,bug,2,10.5,esha,High
+T01455,"Migrate profile database to automated during maintenance window. Customer escalation, please prioritize.",deployment,15,18.6,hassan,Medium
+T01456,"Null pointer exception occurring in billing module during nightly operation. Blocked by another team, follow up needed.",bug,3,10.0,alice,Medium
+T01457,"Fix crash when user uploads scheduled file on reporting page. Blocked by another team, follow up needed.",bug,1,4.5,chen,High
+T01458,"Create new user-reported widget for the checkout homepage. Customer escalation, please prioritize.",feature,9,5.1,bharath,Low
+T01459,Null pointer exception occurring in admin module during nightly operation. Related to the mobile app incident from last week.,bug,3,18.0,bharath,High
+T01460,Create new quarterly widget for the API gateway homepage. Related to the auth incident from last week.,feature,3,12.8,chen,Medium
+T01461,"Build export to automated functionality for auth reports. Blocked by another team, follow up needed.",feature,0,3.3,esha,Medium
+T01462,"Migrate inventory database to minor during maintenance window. Customer escalation, please prioritize.",deployment,2,3.7,alice,Medium
+T01463,Add integration tests covering scheduled flow in auth,documentation,0,5.4,chen,High
+T01464,Provision new large servers for admin scaling,deployment,1,27.8,divya,High
+T01465,"Implement dark mode support for API gateway screen. Customer escalation, please prioritize.",feature,4,4.1,alice,Medium
+T01466,Configure CI/CD pipeline for API gateway service on recurring,deployment,0,13.4,farhan,Medium
+T01467,Increase test coverage for admin edge cases in critical. Please review before the next sprint.,testing,11,14.8,farhan,Low
+T01468,Write onboarding guide for new reporting users about scheduled. Please review before the next sprint.,documentation,1,8.3,farhan,Medium
+T01469,"Application freezes after clicking scheduled button on auth. Customer escalation, please prioritize.",bug,0,5.5,bharath,High
+T01470,"Fix crash when user uploads user-reported file on reporting page. Blocked by another team, follow up needed.",bug,4,9.1,farhan,Medium
+T01471,Add recurring filter option to the search dashboard,feature,0,3.8,gita,Medium
+T01472,"Create new urgent widget for the mobile app homepage. Blocked by another team, follow up needed.",feature,0,9.6,alice,Medium
+T01473,Configure CI/CD pipeline for profile service on critical. Please review before the next sprint.,deployment,3,12.8,bharath,Medium
+T01474,"Application freezes after clicking urgent button on search. Blocked by another team, follow up needed.",bug,2,8.7,hassan,High
+T01475,Login fails intermittently with quarterly error on inventory browser,bug,28,12.5,alice,Medium
+T01476,Write unit tests for quarterly function in admin module. Related to the auth incident from last week.,testing,16,8.6,chen,Low
+T01477,Application freezes after clicking recurring button on auth. Please review before the next sprint.,bug,5,21.9,chen,Medium
+T01478,"Login fails intermittently with user-reported error on inventory browser. Customer escalation, please prioritize.",bug,0,11.1,alice,High
+T01479,Write unit tests for automated function in auth module,testing,2,18.9,divya,Medium
+T01480,Login fails intermittently with urgent error on reporting browser,bug,0,4.4,hassan,High
+T01481,Set up monitoring alerts for reporting after large deploy,deployment,6,40.7,alice,Medium
+T01482,"Add integration tests covering large flow in billing. Blocked by another team, follow up needed.",testing,4,1.0,gita,Low
+T01483,Data not saving correctly after user-reported update in admin form,bug,0,4.7,farhan,High
+T01484,Login fails intermittently with scheduled error on checkout browser,bug,10,3.0,divya,Low
+T01485,"Set up regression test suite for API gateway after nightly change. Blocked by another team, follow up needed.",testing,2,18.3,gita,Medium
+T01486,"Data not saving correctly after large update in checkout form. Customer escalation, please prioritize.",bug,13,10.0,esha,Medium
+T01487,Add integration tests covering recurring flow in admin. Please review before the next sprint.,deployment,1,4.7,hassan,Medium
+T01488,"Fix crash when user uploads large file on checkout page. Blocked by another team, follow up needed.",testing,7,8.3,chen,Medium
+T01489,Create changelog entry for minor release of billing,documentation,11,8.1,hassan,Low
+T01490,Fix crash when user uploads minor file on API gateway page. Related to the auth incident from last week.,bug,0,21.1,divya,High
+T01491,Data not saving correctly after critical update in API gateway form,bug,1,2.1,divya,High
+T01492,"Data not saving correctly after urgent update in billing form. Blocked by another team, follow up needed.",bug,14,11.8,bharath,Medium
+T01493,"Create changelog entry for quarterly release of billing. Blocked by another team, follow up needed.",deployment,2,15.5,hassan,Medium
+T01494,Perform load testing on inventory service under nightly traffic,testing,9,7.4,esha,Low
+T01495,Provision new scheduled servers for reporting scaling,deployment,6,40.6,esha,High
+T01496,"Write onboarding guide for new reporting users about automated. Customer escalation, please prioritize.",documentation,6,13.4,gita,Low
+T01497,"Perform load testing on checkout service under urgent traffic. Customer escalation, please prioritize.",testing,1,12.6,gita,High
+T01498,Fix crash when user uploads user-reported file on billing page,bug,25,9.9,bharath,Medium
+T01499,Application freezes after clicking recurring button on checkout,bug,5,6.6,bharath,Medium
+T01500,"Migrate checkout database to large during maintenance window. Blocked by another team, follow up needed.",deployment,2,11.7,esha,Medium
+T00290,"Add notification system for critical events in profile. Customer escalation, please prioritize.",feature,1,17.7,hassan,Medium
+T00258,"Create changelog entry for minor release of reporting. Blocked by another team, follow up needed.",documentation,0,11.4,hassan,Medium
+T01010,Data not saving correctly after minor update in API gateway form,bug,15,18.2,alice,Medium
+T00641,Add user-reported filter option to the API gateway dashboard,feature,4,11.3,bharath,Medium
+T00725,Provision new recurring servers for admin scaling,deployment,0,16.5,hassan,High
+T01173,Create changelog entry for user-reported release of auth. Related to the inventory incident from last week.,documentation,1,16.0,divya,Medium
+T00916,Fix crash when user uploads minor file on checkout page,bug,3,24.4,divya,High
+T00588,Null pointer exception occurring in profile module during user-reported operation,bug,0,3.0,hassan,High
+T00848,"Application freezes after clicking quarterly button on search. Blocked by another team, follow up needed.",bug,3,10.3,alice,Medium
+T00123,Add notification system for minor events in billing. Related to the admin incident from last week.,feature,0,11.7,esha,Medium
+T00504,Write onboarding guide for new profile users about automated. Please review before the next sprint.,documentation,0,33.6,esha,Medium
+T01084,Application freezes after clicking automated button on mobile app,testing,12,11.3,farhan,Medium
+T00528,Add code comments explaining automated logic in admin module,documentation,0,7.7,divya,Medium
+T00749,"Write onboarding guide for new auth users about recurring. Customer escalation, please prioritize.",documentation,1,12.1,alice,Medium
+T00574,Add urgent filter option to the inventory dashboard,feature,6,12.6,bharath,Low

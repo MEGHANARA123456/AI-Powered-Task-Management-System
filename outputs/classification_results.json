@@ -1,0 +1,17 @@
+{
+  "results": {
+    "Naive Bayes": {
+      "accuracy": 0.9369,
+      "precision": 0.939,
+      "recall": 0.9369,
+      "f1": 0.9359
+    },
+    "SVM (LinearSVC)": {
+      "accuracy": 0.9336,
+      "precision": 0.9349,
+      "recall": 0.9336,
+      "f1": 0.9325
+    }
+  },
+  "best_model": "Naive Bayes"
+}
